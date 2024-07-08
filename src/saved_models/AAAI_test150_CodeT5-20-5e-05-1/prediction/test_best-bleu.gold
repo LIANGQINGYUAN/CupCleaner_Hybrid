@@ -1,0 +1,150 @@
+{"gold": "@param preferred preferred port"}
+{"gold": "@param scenarioPattern"}
+{"gold": "@param req the  AtmosphereResponse"}
+{"gold": "@param bindingContext The binding context, giving access to needed services and information"}
+{"gold": "@param client client model (required)"}
+{"gold": "@param requiredFile file to upload (required)"}
+{"gold": "@param entityName The name of the entity to which we shoudl associate these cache settings"}
+{"gold": "@param req the  AtmosphereRequest"}
+{"gold": "@param operation"}
+{"gold": "@param requiredFile file to upload (required)"}
+{"gold": "@param expected Expected query (as array)"}
+{"gold": "@param client client model (required)"}
+{"gold": "@param order order placed for purchasing the pet"}
+{"gold": "@param schema Schema to get example string for"}
+{"gold": "@param in"}
+{"gold": "@param aliasedLockOptions lock options indexed by aliased table names."}
+{"gold": "@param param is a parameter"}
+{"gold": "@param body (User) Updated user object (required)"}
+{"gold": "@param duration the new length of the duration"}
+{"gold": "@param booleanPostBody Input boolean as post body (optional)"}
+{"gold": "@param encodedImage Next set of bytes received by the caller"}
+{"gold": "@param fieldType type of field to append"}
+{"gold": "@param user List of user object"}
+{"gold": "@param lng the long to examine."}
+{"gold": "@param clauses clauses"}
+{"gold": "@param p OpenAPI Schema object"}
+{"gold": "@param maxEdits"}
+{"gold": "@param file1 One of the files, for which the common base directory is being sought, may be null."}
+{"gold": "@param partial the partial to compare to"}
+{"gold": "@param toolBar the tool bar"}
+{"gold": "@param file2 The other file for which the common base directory should be returned."}
+{"gold": "@param regex the text to search for. The parameter will be interpreted as a regular expression."}
+{"gold": "@param target The target allocator to create an association with."}
+{"gold": "@param onlyVisible  true if only texts visible on the screen should be searched"}
+{"gold": "@param c An instance of  AtmosphereServlet.AtmosphereConfig"}
+{"gold": "@param v the long to examine."}
+{"gold": "@param jdbcEnvironment The JDBC environment"}
+{"gold": "@param authorityContext the ldap context"}
+{"gold": "@param in The file to read."}
+{"gold": "@param action the action to be performed on eureka server."}
+{"gold": "@param regex the text to search for. The parameter will be interpreted as a regular expression."}
+{"gold": "@param enversService The EnversService"}
+{"gold": "@param client client model (required)"}
+{"gold": "@param schema property schema"}
+{"gold": "@param ctxdate Context date (usually doc_date)"}
+{"gold": "@param outerComposite Input composite as post body"}
+{"gold": "@param o the message to broadcast."}
+{"gold": "@param client client model (required)"}
+{"gold": "@param cuboid an on-tree cuboid"}
+{"gold": "@param qualified the alias of the from item"}
+{"gold": "@return One of the following application running states: {@link IServer#STATE_STARTED}, {@link IServer#STATE_STOPPED}, {@link IServer#STATE_UNKNOWN}"}
+{"gold": "@return The pkg"}
+{"gold": "@return javax.swing.ZapTextArea"}
+{"gold": "@return red value in the first position"}
+{"gold": "@return read operation {@link SailBranch}"}
+{"gold": "@return item in first position"}
+{"gold": "@return Byte array of the aggreagtor values"}
+{"gold": "@return the {@link DefaultMetaBroadcaster}"}
+{"gold": "@return true, if the max count is enabled and exceeded."}
+{"gold": "@return null if the value is not valid"}
+{"gold": "@return Built {@link TimestampedEntry}."}
+{"gold": "@return Approximate representation of the given interval as a number of nanoseconds"}
+{"gold": "@return The {@link android.telecom.Connection.VideoProvider}."}
+{"gold": "@return a ErrorLevel"}
+{"gold": "@return project files in that directory."}
+{"gold": "@return the extended Pipeline"}
+{"gold": "@return the matching option, or null if no match is found"}
+{"gold": "@return One of STATUS_MESSAGES_REMAINING, STATUS_NO_MESSAGES_REMAINING or STATUS_REMOVING_MESSAGE"}
+{"gold": "@return Credentials instance corresponding to the given Credentials class. Null if no such id found."}
+{"gold": "@return the positions offset for the header or, 3 positions, for after the body (the third position is just to indicate that it's the body, the value is meaningless), or  #INVALID_POSITION if the  start or  end is greater than the length of the  view"}
+{"gold": "@return double The yaw Euler angle in degrees."}
+{"gold": "@return The next power of 2 or the value itself if it is a power of 2"}
+{"gold": "@return the response, null if not found, or an Exception if something bad happened"}
+{"gold": "@return The BlobProxy instance to represent this data."}
+{"gold": "@return true if the input can be combined into a parent MultiJoin"}
+{"gold": "@return new {@link org.apache.poi.ss.usermodel.Workbook} generated by inserting beans into corresponding excel template"}
+{"gold": "@return The x location of the left side of this shape."}
+{"gold": "@return The stored value."}
+{"gold": "@return the list of KDCs separated by a space, always non null"}
+{"gold": "@return caption for that handle or null if no such handle"}
+{"gold": "@return a string representation of this collection"}
+{"gold": "@return javax.swing.ZapTextArea"}
+{"gold": "@return the converted value, or null if the conversion could not be made and the column allows nulls"}
+{"gold": "@return {@link AnimationBuilder} instance. Call {@link com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView.AnimationBuilder#start()} to start the anim."}
+{"gold": "@return metadata stored for the specified renderer"}
+{"gold": "@return An annotator created by that factory."}
+{"gold": "@return this for method chaining"}
+{"gold": "@return the validated character sequence (never {@code null} for method chaining)"}
+{"gold": "@return the name of the charset, never {@code null}"}
+{"gold": "@return the addAdapter to test"}
+{"gold": "@return true if the gzip compression should be used if the client accespts it. Default this option is on for text content and off for everything else."}
+{"gold": "@return threshold, default  #IN_SUBQUERY_THRESHOLD"}
+{"gold": "@return an array of long mapping to the update count per SQL command."}
+{"gold": "@return tile height or width, whichever is larger"}
+{"gold": "@return the extended Pipeline"}
+{"gold": "@return a Subject representing the authenticated account."}
+{"gold": "@return unmodifiable collection of primitives"}
+{"gold": "@return a {@link Criterion} that evaluates the raw selection and selection args. If the selection string is empty, this will return null."}
+{"gold": "@return a  FieldValueInfo"}
+{"gold": "@return the current uptime in ms"}
+{"gold": "Provides a SubProjectData object containing four set, each containing projects to be displayed on the project view under 'Subprojects' section."}
+{"gold": "Returns true if, the job server is keeping the lock for the lockPath"}
+{"gold": "Returns  true if any of the flags supplied in the argument are set."}
+{"gold": "This method initializes ZapTextArea"}
+{"gold": "Returns the common base directory between the passed file1 and file2."}
+{"gold": "Return the set of Cassandra instances."}
+{"gold": "Removes the content source from this repo, if it exists."}
+{"gold": "First authenticates the AuthenticationToken argument, and if successful, constructs a Subject instance representing the authenticated account's identity."}
+{"gold": "Looks up a specific thingName based on some SCM-specific set of permissible syntaxes."}
+{"gold": "Invoke the proprietary  AsyncSupport"}
+{"gold": "Return the  DefaultMetaBroadcaster"}
+{"gold": "Adds the first column of a query result to a collection."}
+{"gold": "Removes a converter from the set of converters."}
+{"gold": "Get the x location of the left side of this shape."}
+{"gold": "Return  LogicalInputSplits for given  HiveReadEntry."}
+{"gold": "Create a YourKit controller and do some or all of  Controller#enableExceptionTelemetry()  Controller#startCPUProfiling(long, String, String)  Controller#startAllocationRecording(boolean, int, boolean, int, boolean, boolean) based on boolean config options passed as method parameters"}
+{"gold": "Get the  edu.stanford.nlp.international.Languages.Language object corresponding to the given language string."}
+{"gold": "Gets the Refactoring supported by the controller."}
+{"gold": "Parses a serialized ImmutableGraph from an InputStream."}
+{"gold": "Determine if there has been a change in redundancy and alter the lowRedundancyBucketCount stat as needed."}
+{"gold": "Retrieves a linked list with parsed Test Suites."}
+{"gold": "Checks if this persistent resource's underlying entity is shareable."}
+{"gold": "Replies an unmodifiable collection of primitives currently selected in this dataset"}
+{"gold": "Construct the text for labels in a Fire Support area graphic."}
+{"gold": "Creates a  TwitterTokenStream that aggregates the outputs of a given set of  TokenStreams."}
+{"gold": "Obtains a IStructuredTextExpert instance for processing structured text with the specified type handler and the specified environment."}
+{"gold": "Get the y position of the top of this shape."}
+{"gold": "Read the content of the generated announcement file."}
+{"gold": "Create  GitlabRepositoryName from URL"}
+{"gold": "Searches for a button with the given regex string and returns true if the searched button is found a given number of times"}
+{"gold": "Returns a paginated iterator with instances of  org.mule.module.google.calendar.model.CalendarList listing the calendars of the user that owns the OAuth access token."}
+{"gold": "Parses the output of ping and populates a instance of  PingResult"}
+{"gold": "Removes the package version from this repo, if it exists."}
+{"gold": "Compares this object with the specified object for equality based on start and end millis plus the chronology."}
+{"gold": "Returns the stored portlet preferences map."}
+{"gold": "Returns the common base directory between the passed file1 and file2."}
+{"gold": "Returns the  JtdsConnection object referenced by the  #statement instance variable."}
+{"gold": "Return the method on the implementation class that matches the operation."}
+{"gold": "Marshall JSON metadata into a new W3CWidget instance"}
+{"gold": "Requests a VisualItem of the specified item class corresponding to a given Entity, optionally creating the VisualItem if it doesn't already exist."}
+{"gold": "Performs the actual authentication of the user by connecting to the LDAP server, querying it for user information, and returning an  LdapDirectoryInfo instance containing the results."}
+{"gold": "Return a ASN1Object containing the encoded certificate."}
+{"gold": "Create a new request queue, using NoHttp default request executor  RestProtocol and default response parser  RestParser."}
+{"gold": "Applies  visitor to each item"}
+{"gold": "Returns the  VideoCallProvider for the connection."}
+{"gold": "Returns the message ID from a SIP request"}
+{"gold": "Return a  com.flexive.shared.structure.FxFilteredEnvironment for the calling user."}
+{"gold": "Handle of terminal to show after closing indicated terminal."}
+{"gold": "Gets a Collection of distances for a specific run and year."}
+{"gold": "Checks whether this ChatSection's value can be parsed as a boolean"}

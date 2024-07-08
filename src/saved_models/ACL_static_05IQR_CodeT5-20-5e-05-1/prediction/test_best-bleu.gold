@@ -1,0 +1,736 @@
+{"gold": "the value of this attribute if this attribute is present in the extracted map . otherwise # get default value ( )"}
+{"gold": "the requested visual item , or null if the visual item wasn ' t found and the create parameter is false ."}
+{"gold": "the new out edges data structure ."}
+{"gold": "for an assignment , variable declaration , or function declaration return the assigned value , otherwise null ."}
+{"gold": "when the transfer is finished returns the send file transfer used"}
+{"gold": "the maximum length of the string or null if there is no limit"}
+{"gold": "the full file manager client built from the cas curator property filemgr . url ."}
+{"gold": "a map of the specified two columns . ( first column = > selected column )"}
+{"gold": "# format key ( string , boolean , boolean , boolean ) format colon = false , format at = true , format hyphen = false , first case = false"}
+{"gold": "an empty list"}
+{"gold": "the stored value ."}
+{"gold": "default value"}
+{"gold": "score value for that day"}
+{"gold": "device admin info object for actual device admins ."}
+{"gold": "true , if the max count is enabled and exceeded ."}
+{"gold": "a new sequence service with the default endpoint url"}
+{"gold": "the next lsn ."}
+{"gold": "position relative to home ."}
+{"gold": "true if updates are visible for the result set type"}
+{"gold": "successful response from the token server or null if it is not possible to refresh the access token"}
+{"gold": "string filled with the plain text form of all sentences in the matches panel"}
+{"gold": "a non - null object iterating over no nulls , containing at least one element ."}
+{"gold": "the last time the trigger will fire , or null if there is no last time ."}
+{"gold": "all pre - and - post conditions ."}
+{"gold": "the region / realm / name of the main character of a user . returns null if not found ."}
+{"gold": "the new insets object initialized to 0"}
+{"gold": "sdp content or null in case of error"}
+{"gold": "the ldap context"}
+{"gold": "menu of given control"}
+{"gold": "the offline player by the name of the raw raw"}
+{"gold": "the incidents task"}
+{"gold": "an object name based on the given component key"}
+{"gold": "the source range of \" ident pattern \" in # result code ."}
+{"gold": "the asn1 object"}
+{"gold": "builds a fixture - making object using the given secret jooq dao"}
+{"gold": "the number of elements that have been added to the collection or - 1 if an error occurred"}
+{"gold": "the list of action instances to persist ."}
+{"gold": "returns true iff no further painting is needed by caller"}
+{"gold": "a twitter token stream object . notice that , in order to support lucene - like twitter token stream behavior , this object ' s reset method must only be used as reset ( null ) and will reset the twitter token stream to its starting point ."}
+{"gold": "blue value in the first position"}
+{"gold": "the async appender factory"}
+{"gold": "digest algorithm identifier or null if object digest info is absent ."}
+{"gold": "project item with the specified text"}
+{"gold": "href , stripped of any fragment"}
+{"gold": "a unique idkey for the identity"}
+{"gold": "the value of this value object ( in case it is single valued ) , or the first value of this entry ( in case it is multivalued ) ."}
+{"gold": "true if evaluation of the query expression stored in sqlx util returns at least one node for this xml value ; unknown if the xml value is null ; false otherwise ."}
+{"gold": "a read - only view of the additional http headers which will be included in every request to the server ."}
+{"gold": "an closeable http client"}
+{"gold": "the module config object"}
+{"gold": "a valid thing name object corresponding to the argument , with a usable corresponding head , or null if malformed or not found"}
+{"gold": "the index list"}
+{"gold": "a svgstyle sheet processing instruction if target is \" xml - stylesheet \" or a generic processing instruction otherwise ."}
+{"gold": "a scheduled reporter"}
+{"gold": "the source ( from the last dot ) ."}
+{"gold": "a deep or shallow copy of the mappings depending on the store by value setting"}
+{"gold": "the context running this job . in most situations it ' s a service . if this context already was destroyed for some reason , then the application context is returned . never returns null ."}
+{"gold": "ping result"}
+{"gold": "the hostname , null if not found , takes longer than 30s to find or otherwise fails"}
+{"gold": "a list of paths to the temp files ( remotes )"}
+{"gold": "the failover list composite assigned to it by the server ( will not be null but may be empty )"}
+{"gold": "true if the edit - value is longer then ta _ length chars or has a line break"}
+{"gold": "the y position of the top of this shape ."}
+{"gold": "ping result"}
+{"gold": "an array list of the view objects located in the focused window"}
+{"gold": "the expression computing the key with which the value will be associated"}
+{"gold": "true if it depends on any of the given add - ons , false otherwise ."}
+{"gold": "a reporter data instance that contains the cached data"}
+{"gold": "estimated rotation of where we are at in angles ."}
+{"gold": "a criterion that evaluates the raw selection and selection args . if the selection string is empty , this will return null ."}
+{"gold": "true if text is shown and false if it is not shown before the timeout"}
+{"gold": "the address of the sender"}
+{"gold": "true if the method has a jsecurity roles required or permission required annotation , false otherwise ."}
+{"gold": "com . jakeapp . core . domain . account if they are already set ."}
+{"gold": "list of contact ids , empty list if none was found"}
+{"gold": "the object name for the given exchange on the virtual host"}
+{"gold": "animation builder instance . call com . davemorrissey . labs . subscaleview . subsampling scale image view . animation builder # start ( ) to start the anim ."}
+{"gold": "the instance of fortran editor tasks associated with the given editor , creating the instance on - demand if necessary"}
+{"gold": "message id"}
+{"gold": "a set with all interfaces . the array may be empty ."}
+{"gold": "when the work has been accepted ."}
+{"gold": "a json node with the result of the cat indices request ."}
+{"gold": "the time when the entry will expire , or negative if the time should not be changed"}
+{"gold": "what modified to account for interaction of options ."}
+{"gold": "current directory history . should never return null ."}
+{"gold": "a gobbling object containing the result of the gobble ."}
+{"gold": "a paginated iterator with instances of org . mule . module . google . calendar . model . calendar list"}
+{"gold": "the properties as a dictionary"}
+{"gold": "a sqlrow or null ."}
+{"gold": "the base url for the service , inclduing what is added by abstract handshake client # extend get base url ( string builder )"}
+{"gold": "a unique representation of this member id ."}
+{"gold": "the authentication config . get token ( )"}
+{"gold": "new instance of the policy to be used by unit tests"}
+{"gold": "a new feature service with the default endpoint url"}
+{"gold": "a hash map representation of the passed in workflow task configuration ' s properties ."}
+{"gold": "- add _ pre _ fix + 20 right bytes of the hash keccak of the data"}
+{"gold": "internal source"}
+{"gold": "first created node id or - 1 if no node was created using this method"}
+{"gold": "connection jdbc object ."}
+{"gold": "collected list"}
+{"gold": "array of text for labels . this array will always include at least one string : the main label text . it may include a second element . the second element ( if present ) is text for a label that must be placed at the left side of the area ."}
+{"gold": "builder"}
+{"gold": "true upon success"}
+{"gold": "unique string representation for this connection"}
+{"gold": "object node array list"}
+{"gold": "the contention manager"}
+{"gold": "the result as a long value"}
+{"gold": "the android . telecom . connection . video provider ."}
+{"gold": "a prototype factory deprecated containing prototypes for ianswer data ' s , idata references , and question data groups . if a factory doesn ' t yet exist , one is created , and default ianswer data implementing classes are pre - populated ."}
+{"gold": "true if the pw pairs are equal ."}
+{"gold": "resolved host name"}
+{"gold": "the content length of the response , or - 1 if it has not been set"}
+{"gold": "a unique type corresponding to type name"}
+{"gold": "green value in the first position"}
+{"gold": "twitter token stream to tokenize the text"}
+{"gold": "list of radii , in meters . this method never returns null . if there are no rings this returns an empty list ."}
+{"gold": "the extended pipeline"}
+{"gold": "string where the action should flow"}
+{"gold": "string filled with the penn treebank forms of all trees in the matches panel"}
+{"gold": "the original exception if the default behavior was changed and the exception is unhandled"}
+{"gold": "a image list ."}
+{"gold": "the access token string , or null if there is no access token"}
+{"gold": "a user adapter or null if there is only one profile ."}
+{"gold": "# put ( string , object )"}
+{"gold": "true : can load the bundle , false : cannot"}
+{"gold": "the specified heap object or null if name contains null ."}
+{"gold": "the qname of the parameter ' s type"}
+{"gold": "the host , as a string ."}
+{"gold": "the meta object for the attribute ' state ' ."}
+{"gold": "the home directory of loom"}
+{"gold": "the extended pipeline"}
+{"gold": "path to directory in which native npm call must be performed . basically , the method scans project for package . json file and returns it ' s parent , ignoring \" node _ modules \""}
+{"gold": "a potentially null string"}
+{"gold": "a async support instance"}
+{"gold": "whether it is not null and text - based"}
+{"gold": "a paginated iterator with instances of org . mule . module . google . drive . model . comment reply"}
+{"gold": "the filter extensions string array ."}
+{"gold": "cube request cube change request"}
+{"gold": "whether the ways match ( in sense of \" be mergable \" ) ."}
+{"gold": "ansi clazzes , containing both span - level and block - level styles"}
+{"gold": "array of set bits"}
+{"gold": "the resulting immutable graph"}
+{"gold": "profiler context , or null if controller cannot be created"}
+{"gold": "the value for the init parameter if defined"}
+{"gold": "sentence index or config # nonexist if stack doesn ' t have an element at this index"}
+{"gold": "port number of the emulator if the socket was available , - 1 if we timed - out ."}
+{"gold": "true the service is started"}
+{"gold": "the stored value ."}
+{"gold": "a clip of the combined records so far . the records have a size that is at most the maximum specified by the aggregation ."}
+{"gold": "the user account name . the string represented by # anonymous _ user is returned if # set user account name ( string ) was never called ."}
+{"gold": "the validated character sequence ( never null for method chaining )"}
+{"gold": "true if the parquet file does not have nulls and false otherwise"}
+{"gold": "the mapping that was removed or null if the resource was not subscribed to this repo"}
+{"gold": "the annotation type value , or amqp destination helper # unknown _ type if the supplied destination null or can ' t be classified"}
+{"gold": "a hash map representation of a workflow instance ."}
+{"gold": "a boolean that is true if the query results should be buffered ."}
+{"gold": "a json node with the result of the cat nodes request ."}
+{"gold": "pause transit service ."}
+{"gold": "a lob"}
+{"gold": "the queue file roll cycle"}
+{"gold": "maximum value ( without checking pre bound change , post bound change conditions )"}
+{"gold": "java . rmi . remote the stub implementation ."}
+{"gold": "the session ' s last access time in milliseconds since the epoch"}
+{"gold": "the validated character sequence ( never null method for chaining )"}
+{"gold": "string array of misspelled words"}
+{"gold": "true if this persistent resource ' s entity is sharable ."}
+{"gold": "int , the count satisfying the above requirements"}
+{"gold": "the identifier of a symbol drawn at the center of the range fan . may be null ."}
+{"gold": "caption for that handle or null if no such handle"}
+{"gold": "domain object"}
+{"gold": "a table clone with new table alias"}
+{"gold": "the extended pipeline"}
+{"gold": "a read - only view of the additional http headers , or null if none are set ."}
+{"gold": "the method described by the operation"}
+{"gold": "the request method"}
+{"gold": "returns the field extractor"}
+{"gold": "a map which contains all datatypes"}
+{"gold": "item in first position"}
+{"gold": "the total number of aggregation executions"}
+{"gold": "the id"}
+{"gold": "string where the action should flow"}
+{"gold": "a linked list with parsed test suites . an empty list of no test suites were found ."}
+{"gold": "the command"}
+{"gold": "the test suite ( always null ) ."}
+{"gold": "the result as a int value"}
+{"gold": "true if autoincrement ddl has been generated . * *"}
+{"gold": "the id of the last baseline build before the given date or null if none was run before it . . ."}
+{"gold": "item in first position"}
+{"gold": "list of of healthy workers"}
+{"gold": "the set of cassandra instances"}
+{"gold": "the topic configs"}
+{"gold": "row id or - 1 if error"}
+{"gold": "if return results is false then return an empty array list if evaluation returned at least one item and return null otherwise . if return results is true then return an array list containing all of the result items and return the qualified xml type via the result xtype parameter ."}
+{"gold": "the module config object"}
+{"gold": "true if the value was set , false otherwise ; the new value ( null if the value wasn ' t set , i . e . if the value cannot be null the boolean isn ' t needed ) ."}
+{"gold": "rx java observable with connectivity class containing information about network state , type and name"}
+{"gold": "the list of action instances to persist ."}
+{"gold": "the com . crowdmap . java . sdk . json . maps response for the specific post"}
+{"gold": "the created project , or null if file was not writable or it already existed ."}
+{"gold": "the extended pipeline"}
+{"gold": "the number of the setter . returns a new org . picocontainer . adapters . setter injection component adapter . @ throws pico introspection exception if dependencies cannot be solved"}
+{"gold": "the value of this attribute if this attribute is present in the extracted map . otherwise # get default value ( )"}
+{"gold": "the remaining characters left to be read from the stream"}
+{"gold": "string where the action should flow"}
+{"gold": "# format key ( string , boolean , boolean , boolean ) format colon = false , format at = true , format hyphen = true , first case = true"}
+{"gold": "the namespace uri mapped to the prefix"}
+{"gold": "the value of this attribute if this attribute is present in the extracted map . otherwise # get default value ( )"}
+{"gold": "the add adapter to test"}
+{"gold": "if the node is the end of exactly one way , return this . null otherwise ."}
+{"gold": "the first ( source ) visual item"}
+{"gold": "connection object ."}
+{"gold": "an optional containing the first object of this iterable"}
+{"gold": "the add adapter to test"}
+{"gold": "the jenkins job name for the given build config"}
+{"gold": "the extension class instance . might be null if the instantiation fails ."}
+{"gold": "the istructured text expert instance ."}
+{"gold": "list of input splits for the given format"}
+{"gold": "result for error in geode while executing command ."}
+{"gold": "a repository metadata ."}
+{"gold": "http response , see class response for details"}
+{"gold": "array list with the views found in the current activity or dialog"}
+{"gold": "an empty list"}
+{"gold": "the meta data or null if this is not a query"}
+{"gold": "true if have one blank at least ."}
+{"gold": "the second ( target ) visual item"}
+{"gold": "the host name or ip , or null ."}
+{"gold": "true if the content can be shared ."}
+{"gold": "string in"}
+{"gold": "the istructured text expert instance ."}
+{"gold": "maps as"}
+{"gold": "true if the clazz ( or one of its superclasses ) implements the given method . returns false if the method doesn ' t exist anywhere in the class hierarchy or it is abstract ."}
+{"gold": "array for all available versions ( sorted )"}
+{"gold": "string without directional formatting characters"}
+{"gold": "number of extra octets of data required data to decode the pi frame fully"}
+{"gold": "a byte buf holding the bytes contained in this message ."}
+{"gold": "the main window base monitored by sleak . java"}
+{"gold": "the validated character sequence ( never null method for chaining )"}
+{"gold": "the factory if parameter matched type"}
+{"gold": "one of status _ messages _ remaining , status _ no _ messages _ remaining or status _ removing _ message"}
+{"gold": "an instance of immutable dfa ; null if no valid immutable dfa can be created ."}
+{"gold": "point determining position of the passed in view inside all of its view parents ."}
+{"gold": "a data object containing sets with projects"}
+{"gold": "list projects that will be displayed"}
+{"gold": "the id of the newly - created row ."}
+{"gold": "the default meta broadcaster"}
+{"gold": "string ."}
+{"gold": "a duplicated twitter token stream"}
+{"gold": "the column descriptor object describing the column ."}
+{"gold": "vcontext menu object"}
+{"gold": "default temporary workspace , null if workspace was not found"}
+{"gold": "the total number of created periods"}
+{"gold": "a hbase mailbox message instance with message metadata ."}
+{"gold": "iserver state of the application based on the application running state in the cloud"}
+{"gold": "returns all axis mapped to a map"}
+{"gold": "the tree as a string"}
+{"gold": "field , or null if not found"}
+{"gold": "map [ task id , component id ]"}
+{"gold": "false if the object is currently assigned to an mbean or if it is not read only or if it is default profile"}
+{"gold": "directory name without preceeding path components and file extension"}
+{"gold": "the distance , or integer # max _ value if the planes differ"}
+{"gold": "the parent or null if there is no parent"}
+{"gold": "the material whose name is the same as the raw value , or null if no material has that name"}
+{"gold": "url with appended query params"}
+{"gold": "a list containing all compile error messages"}
+{"gold": "the id for the given widget"}
+{"gold": "the primary inet address of the primary network interface or the loopback address as fallback ."}
+{"gold": "true if contact has an entry in the rich address book provider , else false"}
+{"gold": "hash code"}
+{"gold": "an array of classes for all the value"}
+{"gold": "cache mode the type"}
+{"gold": "an integer with a value greater than 0 , or null if undefined ."}
+{"gold": "true if the specified year / month / day are within the selectable days or the range set by min date and max date . if one or either have not been set , they are considered as integer . min _ value and integer . max _ value ."}
+{"gold": "the result of calling get cause ( ) ."}
+{"gold": "cube request cube change request"}
+{"gold": "true if the specified ( or any matching ) configuration failed the operation and threw an exception during the lifecycle operation"}
+{"gold": "# format key ( string , boolean , boolean , boolean ) format colon = false , format at = true , format hyphen = false , first case = true"}
+{"gold": "the iproject associated with the managed project"}
+{"gold": "a fully - configured client"}
+{"gold": "the month of the year as defined by plain local date"}
+{"gold": "a hash map representation of a workflow ."}
+{"gold": "a string representation of this collection"}
+{"gold": "a transformer that will convert strings into that type , or null if the given type is not a primitive type"}
+{"gold": "the wrapped lockable mgraph or a write - block lockable mgraph depending on the access rights of the caller ."}
+{"gold": "a set of all known directly implemented class infos ."}
+{"gold": "a criterion that the field must be equal to the given string , ignoring case . this will only work for ascii characters ."}
+{"gold": "the number of bits or null if the number of bits cannot be determined"}
+{"gold": "array of configuration elements ."}
+{"gold": "a dbcompare col expr for the \" in \" operator"}
+{"gold": "true if the set of filters was modified by this call ."}
+{"gold": "the height of the collapsed bottom sheet in pixels , or # peek _ height _ auto if the sheet is configured to peek automatically at 16 : 9 ratio keyline"}
+{"gold": "the category else return null"}
+{"gold": "engine parameter meta data for the prepared statement . note : there is no separate brokered parameter set meta data ."}
+{"gold": "a result set that contains the data produced by the query ; never null"}
+{"gold": "the sql to create the synonym ."}
+{"gold": "a new annotation model for the external editor input"}
+{"gold": "parsed gitlab repository name or null if it cannot be parsed from the specified url"}
+{"gold": "the result from the cache ( null if there is none )"}
+{"gold": "number of the items removed from the cache"}
+{"gold": "number of current bucket hosts"}
+{"gold": "true if the entity has had properties updated during this method , false otherwise ."}
+{"gold": "array of summaries or null if an error occured ."}
+{"gold": "the removed handle"}
+{"gold": "true if the first object is the ancestor of the second object2 ."}
+{"gold": "an object ."}
+{"gold": "activity options with remote animations that controls how the window of the opening targets are displayed ."}
+{"gold": "the new partition template"}
+{"gold": "the customer with the given resource uri , or null if it doesn ' t exist"}
+{"gold": "a copy of the internal map ibuild configuration - > incremental project builder if this build command supports multiple configurations . otherwise return the incremental project builder associated with this build command ."}
+{"gold": "collection of all distances for a specific run on a specific year"}
+{"gold": "this builder , to allow method chaining"}
+{"gold": "the label bounds , in lower - left origin screen coordinates , or null if there is no label ."}
+{"gold": "an alphabetically sorted list of all of the names that have already been used . this list is not modifiable , but is backed by the real list and will stay updated ."}
+{"gold": "the istructured text expert instance ."}
+{"gold": "the input state tag view or null if not exists"}
+{"gold": "the validated character sequence ( never null for method chaining )"}
+{"gold": "an string representation of the number with no decimal"}
+{"gold": "whether is successful to update all tasks ' status to the filedownloader engine . if one task atom among them is not match the rules in file download mgr # obtain completed task shelf model ( string , string , long ) will receive false , and non of them would be updated to db ."}
+{"gold": "null if unknown type , null cannot be used to create valid event breakpoint"}
+{"gold": "the traceability index index of the current repository . if none find , creates it"}
+{"gold": "possible object is string"}
+{"gold": "the scope container for the module scope that will be associated with this deployment unit"}
+{"gold": "an array of long mapping to the update count per sql command ."}
+{"gold": "all item ids filtered by given key ."}
+{"gold": "bool"}
+{"gold": "true if the button is visible"}
+{"gold": "string type"}
+{"gold": "the env , unknown if env is not set or invalid"}
+{"gold": "the merge policy classname"}
+{"gold": "true if there are no pending count messages"}
+{"gold": "if pre bound change , max post bound conditions are met , send stream event output with extrema type , pre bound ( distance at which a value satisfying pre bound change condition is found ) , post bound ( distance at which a value satisfying post bound change condition is found )"}
+{"gold": "the path to the optimized image"}
+{"gold": "context ."}
+{"gold": "the errors that already exist in the request , or a new action messages object if empty ."}
+{"gold": "a value of access type ."}
+{"gold": "true if habit has reminder , false otherwise"}
+{"gold": "double the yaw euler angle in degrees ."}
+{"gold": "the time in milliseconds the specified session may remain idle before expiring ."}
+{"gold": "vcard config # version _ 21"}
+{"gold": "the stream variable ."}
+{"gold": "the immutable graph read from the stream"}
+{"gold": "a set of interfaces ."}
+{"gold": "true if specified tool item is selected , false otherwise"}
+{"gold": "media hold by media list . this media should be released with # release ( ) ."}
+{"gold": "the value of the ' top ' attribute , null if not set"}
+{"gold": "new timer"}
+{"gold": "new foreground color based on the background color"}
+{"gold": "a hashed password"}
+{"gold": "a new calendar instance with the date set to today ."}
+{"gold": "the path representing the provided uri , null"}
+{"gold": "set of tsentry role toles corresponding to the given set of groups ."}
+{"gold": "return the announcement text"}
+{"gold": "an array of container children"}
+{"gold": "byte array of the aggreagtor values"}
+{"gold": "the modules needing ref ( excluding it ) , in uninstallation order ( i . e . the first item isn ' t depended on ) ."}
+{"gold": "a formatted challenge response , as an array of bytes ."}
+{"gold": "an aggregated account instance representing account data across all the successfully consulted realms ."}
+{"gold": "true if the repository file was parsed , otherwise false"}
+{"gold": "a dimension value load task"}
+{"gold": "a not implemented error"}
+{"gold": "the mouse cursor y position or - 1 if unknown"}
+{"gold": "true if this authentication realm can process the submitted token instance of the class , false otherwise ."}
+{"gold": "score value for that day"}
+{"gold": "a subset of this configuration using the prefix # app _ prefix . any change made to subset will be reflected in this configuration , but with the prefix added . this method is useful for setting application configuration before initialization . for reading application configuration after initialization , see fluo client # get app configuration ( )"}
+{"gold": "the list of initial service references ."}
+{"gold": "the content of the stream ."}
+{"gold": "this exception ."}
+{"gold": "a date instance representing the timestamp"}
+{"gold": "a map of topic metadatas keyed by topic name"}
+{"gold": "one of the following application running states : iserver # state _ started , iserver # state _ stopped , iserver # state _ unknown"}
+{"gold": "an int identifying the status"}
+{"gold": "valid user"}
+{"gold": "the frame to be displayed , null to keep the default value ."}
+{"gold": "the package id for the given apk ."}
+{"gold": "a valid url , if all went well ."}
+{"gold": "an iterator of all child nodes of this node ."}
+{"gold": "status . ok _ status if it is successful ."}
+{"gold": "set method or null ( or throws illegal argument exception ) if none found ."}
+{"gold": "a set of class names and class member signatures found in the method , as well as all invoke sites ."}
+{"gold": "a tree with entries consisting the family ( key ) and a linked list of font files in that family ( value )"}
+{"gold": "the final name of the saved script - which is also the id of the script !"}
+{"gold": "a type element containing a schema simple type / complex type"}
+{"gold": "the result of interpretting the object as an instance of ' customers type ' ."}
+{"gold": "the next element of the iterable , or null if not present ."}
+{"gold": "a subject representing the authenticated account ."}
+{"gold": "future for accessing the http response"}
+{"gold": "built merkle tree leaf ."}
+{"gold": "the result as a int value"}
+{"gold": "activity options with remote animations that controls how the window of the opening targets are displayed ."}
+{"gold": "shell script exit value ."}
+{"gold": "a by which locates a elements that contain the given link text"}
+{"gold": "expression to match columns from name list , or true if name list is empty"}
+{"gold": "the value of this attribute if this attribute is present in the extracted map . otherwise # get default value ( )"}
+{"gold": "current directory history , or if empty , only current directory ( as file [ 0 ] ) ."}
+{"gold": "a list containing all compile error messages"}
+{"gold": "the int"}
+{"gold": "the protocol - serialized representation of the supplied value , or # null _ param _ value if the supplied value was null ."}
+{"gold": "minimum value ( without checking pre bound change , post bound change conditions )"}
+{"gold": "from context instance"}
+{"gold": "the buffered reader , if all went well ; otherwise , null ."}
+{"gold": "input value without any characters that might not be allowed for a filename converted to lowercase"}
+{"gold": "user information response object with received values ."}
+{"gold": "logical project corresponding to the right child"}
+{"gold": "the irunnable with progress operation associated with this page that should be run during the wizard ' s do run epilogue ( ) method . this operation should only be executed if in fact the page is visible ."}
+{"gold": "the value for this accumulator"}
+{"gold": "the output file , or null if no suitable output was produced"}
+{"gold": "updated sqlexception or null if no error has yet occured"}
+{"gold": "the cost for converting or null if cv1t1 is not reference - compatible with cv2t2"}
+{"gold": "red value in the first position"}
+{"gold": "list of unread / read priority messages"}
+{"gold": "path to directory in which native bower call must be performed . basically , the method scans project for bower . json file and returns it ' s parent , ignoring components directories i . e \" bower _ components \" or defined in . bowerrc file"}
+{"gold": "the java version , or null if no minimum ."}
+{"gold": "the response , null if not found , or an exception if something bad happened"}
+{"gold": "the session id which now contains the memcached id if one was provided , otherwise the session id unmodified ."}
+{"gold": "the physical type used by the runtime"}
+{"gold": "the field map [ field _ name , type ] ."}
+{"gold": "a set of class names and class member signatures found in the field ."}
+{"gold": "the extended pipeline"}
+{"gold": "a new string value that is the original uri with the added bean properties ."}
+{"gold": "the cmd line option validator . results generated when running cmd line option validators ."}
+{"gold": "the color schema"}
+{"gold": "a parameter listcontaining the body parameters ."}
+{"gold": "the session tracker valve . session backup service . backup result status"}
+{"gold": "the created project , or null if file was not writable or it already existed ."}
+{"gold": "the decoded value type or # directed if the char does not map to a value type"}
+{"gold": "string the crowdmap id"}
+{"gold": "a map which contains all datatypes"}
+{"gold": "returns java . util . iterator with elements of type javax . xml . namespace . qname"}
+{"gold": "result of calling support # calculate named pipe buffer size ( int , int ) ."}
+{"gold": "list of cookies that were read"}
+{"gold": "a jsonobject which is the value or null if not available ."}
+{"gold": "true if the token is empty ( oauth _ token = \" \" , oauth _ token _ secret = \" \" )"}
+{"gold": "the union of the char [ ] s"}
+{"gold": "connection ."}
+{"gold": "state ( see class session state )"}
+{"gold": "true iff the contents of the two notes are equal ."}
+{"gold": "a binary visitor that will call println ( x ) on the java . io . print stream y"}
+{"gold": "module jar class loader"}
+{"gold": "the name of the charset , never null"}
+{"gold": "the entity ."}
+{"gold": "current number of words for study from respective study set"}
+{"gold": "number of terminals in the dropdown"}
+{"gold": "the media route provider descriptor , or null if none . this object and all of its contents should be treated as if it were immutable so that it is safe for clients to cache it ."}
+{"gold": "vol - the amount of rejected power to be sent back into the conductor"}
+{"gold": "tile height or width , whichever is larger"}
+{"gold": "the key size , # unknown _ key _ size if not known"}
+{"gold": "a finder that uses the ui element returned by first finder as context for the second finder"}
+{"gold": "the visual item located at the given point , if any"}
+{"gold": "the next power of 2 or the value itself if it is a power of 2"}
+{"gold": "a copy of the current argument list ."}
+{"gold": "the value of this attribute if this attribute is present in the extracted map . otherwise # get default value ( )"}
+{"gold": "the component metadata ( composite & component ) ."}
+{"gold": "time , expressed as seconds since the epoch ."}
+{"gold": "the jenkins job name for the given namespace and name"}
+{"gold": "the server port"}
+{"gold": "table metadata array"}
+{"gold": "a string ."}
+{"gold": "an instance of the specified class or null if the class cannot be instantiated"}
+{"gold": "an open chat"}
+{"gold": "true if the compare viewer is mirrored . by default the compare viewer is not mirrored ."}
+{"gold": "the stored value ."}
+{"gold": "the usage in # unit"}
+{"gold": "sentence index or config # nonexist if stack doesn ' t have an element at this index"}
+{"gold": "a repository method metadata ."}
+{"gold": "the error from the server , or null if there was no server error"}
+{"gold": "document collection with entries for docs , each with a metadatum for name ."}
+{"gold": "the stored value ."}
+{"gold": "the list of currently open projects active build configs ( and the project build configs they depend on ) in the workspace in the order in which they would be built by iworkspace . build ."}
+{"gold": "the asked tree ."}
+{"gold": "a stream with test entries"}
+{"gold": "media list . this media list should be released with # release ( ) ."}
+{"gold": "a copy of the set of file ids which are currently on the queue will be normally be used when deciding which data files can be deleted"}
+{"gold": "string without directional formatting characters"}
+{"gold": "boolean denoting if query has closed ."}
+{"gold": "ok status if deployment information is complete and valid . returns an error status if invalid ( i . e . it is missing some information ) ."}
+{"gold": "the player by the name of the raw raw - null if ( s ) he isn ' t online"}
+{"gold": "the number of replies received . this may be less than the number sent if the timeout terminated the wait for all prematurely ."}
+{"gold": "get method or null ( or throws illegal argument exception ) if none found ."}
+{"gold": "implicit columns map"}
+{"gold": "returns of this belt is slanting up or down . returns null if not slanting ."}
+{"gold": "a hash map representation of a workflow instance page ."}
+{"gold": "this & amp ; & amp ; right"}
+{"gold": "the key to adapter cache"}
+{"gold": "a com . r0adkll . slidr . slidr interface that allows the user to lock / unlock the sliding mechanism for whatever purpose ."}
+{"gold": "true if the extension is \" . gz \" or \" . z \" , false otherwise"}
+{"gold": "the associated atmosphere request"}
+{"gold": "an array of vcpu info object describing the vcpus"}
+{"gold": "a document factory ."}
+{"gold": "column name or \" \" if not found"}
+{"gold": "the maximum line length ( default 512 )"}
+{"gold": "new org . apache . poi . ss . usermodel . workbook generated by inserting beans into corresponding excel template"}
+{"gold": "this"}
+{"gold": "the list of kdcs separated by a space , always non null"}
+{"gold": "the time of the last record , or the current time if there are no records"}
+{"gold": "the factory for the specified persistence unit or null if none are applicable ."}
+{"gold": "a paginated iterator with instances of org . mule . module . google . drive . model . comment"}
+{"gold": "ok if the parse succeeded , or an error message if it did not fixme why does this return null ?"}
+{"gold": "table metadata array"}
+{"gold": "unmodifiable collection of primitives"}
+{"gold": "the year class when this device would have been considered top - of - the - line ."}
+{"gold": "the time of the first record , or the current time if there are no records"}
+{"gold": "the scmsource criteria . probe ."}
+{"gold": "array of configuration elements ."}
+{"gold": "a new string value that is the original uri with the added bean properties ."}
+{"gold": "true if there is some value available for this option ."}
+{"gold": "double the pitch euler angle in degrees ."}
+{"gold": "subject or empty"}
+{"gold": "apiresult - succeeded or failed"}
+{"gold": "true if the clazz ( or one of its superclasses except for object ) implements the given method . returns false if the method doesn ' t exist anywhere in the class hierarchy or it is abstract ."}
+{"gold": "true if the set of filters was modified by this call ."}
+{"gold": "friend list for a user"}
+{"gold": "the previous build result"}
+{"gold": "if the device is resolvable or not ."}
+{"gold": "a list with table grant objects ."}
+{"gold": "the multi join corresponding to this multijoin"}
+{"gold": "whether this chat section ' s value can be parsed as a boolean"}
+{"gold": "true if the annotated type mirror contains the unknown val , array len , to bottom val , false otherwise"}
+{"gold": "a jsonarray which is the value , or null if not present"}
+{"gold": "the account balance"}
+{"gold": "the pkg"}
+{"gold": "true for visible , false for invisible ; if no metadata is available , defaults to true"}
+{"gold": "the component template"}
+{"gold": "index name and aliases of that index"}
+{"gold": "the selected day , or null if no selection . if in multiple selection mode , this will return the last selected date"}
+{"gold": "the annotation type value , or null if the supplied destination is null or can ' t be classified"}
+{"gold": "the current draw queue type for this layer"}
+{"gold": "built timestamped entry ."}
+{"gold": "the decoded value type or # directed if the char does not map to a value type"}
+{"gold": "a array list with the versions of an application information"}
+{"gold": "array of component types"}
+{"gold": "the encoding used to send outgoing messages . never null"}
+{"gold": "true if the method has a jsecurity requires roles or requires permissions annotation , false otherwise ."}
+{"gold": "abstract builder node ( this ) to allow for method chaining ."}
+{"gold": "a paginated iterator with instances of org . mule . module . google . drive . model . file"}
+{"gold": "the currently attached trash flyout fragment ."}
+{"gold": "double the roll euler angle in degrees ."}
+{"gold": "opaque string handle for this terminal instance , or null if terminal has never been attached to a server console process ."}
+{"gold": "the x location of the left side of this shape ."}
+{"gold": "the corresponding sla slaregistration bean list ."}
+{"gold": "the date of birth different providers may use different formats"}
+{"gold": "true if view transformation was successfully applied on referenced child , otherwise child be not the target and therefore animation was skipped"}
+{"gold": "a read lock if the underlying immutable graph is a lockable graph it returns its lock , otherwise null"}
+{"gold": "the list the x _ ad _ replication table"}
+{"gold": "the results of the ldap directory search ."}
+{"gold": "a binary visitor that will call write ( x ) on the java . io . writer y"}
+{"gold": "an aggregated authentication info instance representing account data across all the successfully consulted realms ."}
+{"gold": "concurrent hash map of product type ids mapped to their parent id"}
+{"gold": "the icursor backing this squid cursor . if you are on android and you need to pass this object across process boundaries , and if this squid cursor was obtained from a squid database , you can safely cast the object returned by this method to an android cursor"}
+{"gold": "the place type corresponding to the provided name ."}
+{"gold": "the itype of the iastdeclarator parameter"}
+{"gold": "the created project , or null if file was not writable or it already existed ."}
+{"gold": "the current isolation level level . if no transaction is active , this may be null ."}
+{"gold": "visitor"}
+{"gold": "object as a json string"}
+{"gold": "true if item collection contains the item , false otherwise ."}
+{"gold": "a org . eigenbase . sql . sql kind value , never null"}
+{"gold": "hash code"}
+{"gold": "the user information response object ."}
+{"gold": "wsdl definition"}
+{"gold": "the map"}
+{"gold": "global configuration table name including the escaped schema"}
+{"gold": "corresponding session key , or empty string if none"}
+{"gold": "the cause of this exception or null if no cause was set ."}
+{"gold": "number"}
+{"gold": "effect the next effect to use or null if no need to apply any effect"}
+{"gold": "true if there are any results , false otherwise"}
+{"gold": "if wait time is less than remote service # threshold , it returns value * 10 , otherwise remote service interface # failure ."}
+{"gold": "the hash or null if object digest info is absent ."}
+{"gold": "map of properties extracted from the given object ."}
+{"gold": "the value object for the given unescaped tag ."}
+{"gold": "item in first position"}
+{"gold": "an array of roles ."}
+{"gold": "a string representation , the parameters are included as a comma - separated list ."}
+{"gold": "true if fast slew is on , false if not . in order ( x , y , z ) ."}
+{"gold": "newly created portlet container instance ."}
+{"gold": "an url - encoded string"}
+{"gold": "an aggregated twitter token stream"}
+{"gold": "score value for that day"}
+{"gold": "this builder , to allow method chaining"}
+{"gold": "any subset of orphaned , representing those children which ought to be removed from the folder now ; items not listed will be left alone for the time being"}
+{"gold": "the active mqconnection factory"}
+{"gold": "true if the queue is buffered , false otherwise"}
+{"gold": "the rounded drawable , or the original drawable if the rounding didn ' t take place or it took place on a drawable ' s child"}
+{"gold": "- returns true is end of statement is hit , false if the scan scar is countered ."}
+{"gold": "a builder which will support plain object # equals ( object ) equals & amp ; plain object # hash code ( ) hash code but not support plain comparable # compare to ( object ) compare to ."}
+{"gold": "a com . flexive . shared . structure . fx filtered environment for the calling user ."}
+{"gold": "the next power of 2 or the value itself if it is a power of 2"}
+{"gold": "a triple of binary train treebank , binary secondary train treebank , binary tune treebank ."}
+{"gold": "the list of action instances to persist ."}
+{"gold": "the current client or a newly creates"}
+{"gold": "null , unconditionally"}
+{"gold": "the maximum query evaluation time , measured in seconds ."}
+{"gold": "array of requisition line ( s )"}
+{"gold": "a finder that is the logical disjunction of given finders"}
+{"gold": "true if the element was or could have been added to ; false if full"}
+{"gold": "true if matching components were found or an empty collective type is allowed"}
+{"gold": "bytes in the file , or null if there ' s no such source file ."}
+{"gold": "the value of this attribute if this attribute is present in the extracted map . otherwise # get default value ( )"}
+{"gold": "the value for the init parameter if defined"}
+{"gold": "the new method or an existing method with that member id ."}
+{"gold": "the project configurations"}
+{"gold": "the scaleway cloud associated with the specified cloud name"}
+{"gold": "connected server hostname / ip"}
+{"gold": "an xml - rpc hash map representation of the workflow condition to send over the wire ."}
+{"gold": "ipath to the idl base folder , or null if the company prefix is not set"}
+{"gold": "if draining the read buffer can be delayed"}
+{"gold": "a new lookup service with the default endpoint url"}
+{"gold": "a finder that is the logical conjunction of given finders"}
+{"gold": "the current time in milliseconds"}
+{"gold": "the name of the base table that this column comes from . null if not a column reference ."}
+{"gold": "whether the user with the first given permissions can modify the user with the second"}
+{"gold": "true if the ( non - type - variable , non - wildcard ) type has the annotation or , if a type variable or wildcard , the type has the annotation on its extends bound"}
+{"gold": "the encoded chars of pattern ."}
+{"gold": "the value of this attribute if this attribute is present in the extracted map . otherwise # get default value ( )"}
+{"gold": "an array of groups ."}
+{"gold": "non - null object ."}
+{"gold": "date"}
+{"gold": "window to show in the portlet for the given portlet mode"}
+{"gold": "true if an edit text with the given text is found or false if it is not found"}
+{"gold": "returns protocol"}
+{"gold": "the extended pipeline"}
+{"gold": "a list object containing all of the registered search paths ."}
+{"gold": "new background color based on the foreground color"}
+{"gold": "an auto paginated iterator with instances of org . mule . module . google . task . model . task list"}
+{"gold": "the extended pipeline"}
+{"gold": "the builder ."}
+{"gold": "a subset of this configuration using the prefix # reporter _ prefix with the reporter parameter appended . any change made to subset will be reflected in this configuration , but with the prefix added ."}
+{"gold": "object value of the property or null if the property is not set"}
+{"gold": "false if the component is not disposing or disposed , true otherwise ."}
+{"gold": "the queue directory"}
+{"gold": "a paginated iterator with instances of org . mule . module . google . drive . model . file"}
+{"gold": "animation builder instance . call com . davemorrissey . labs . subscaleview . subsampling scale image view . animation builder # start ( ) to start the anim ."}
+{"gold": "name + key _ array : this . if needs to be put , use # add ( com . alibaba . fastjson . jsonobject ) instead"}
+{"gold": "whether the objects are equal in terms of numeric value and type ."}
+{"gold": "connection state return true , otherwise it returns false ."}
+{"gold": "the stored value ."}
+{"gold": "total of values seen"}
+{"gold": "int , total count"}
+{"gold": "list of objects whose view has been filtered"}
+{"gold": "url of this resource ' s parent"}
+{"gold": "a parameter list containing the query string parameters ."}
+{"gold": "an array of items"}
+{"gold": "a w3 cwidget instance"}
+{"gold": "the chronology"}
+{"gold": "value set in # set payload ( java . lang . string )"}
+{"gold": "an immutable list of accept entities sorted by rfc priority ."}
+{"gold": "read operation sail branch"}
+{"gold": "iterator of all directly derived types"}
+{"gold": "the empty pathway"}
+{"gold": "a instant run verifier status instance or null if the method is not making any blacklisted calls ."}
+{"gold": "a type element containing a schema simple type / complex type"}
+{"gold": "the document / document fragment or null on error ."}
+{"gold": "a collection containing all primitives of the dataset . data are not ordered"}
+{"gold": "whether \" xml : space \" attribute is set to \" default \""}
+{"gold": "blank node if it is a blank node otherwise a iri"}
+{"gold": "a new variation service with the default endpoint url"}
+{"gold": "cost price lower level"}
+{"gold": "a number instance of id passed in parameter"}
+{"gold": "qname fully qualified name of the port type"}
+{"gold": "the location in display coordinates or null iff not visible"}
+{"gold": "true if in melee distance , false otherwise"}
+{"gold": "blank node if it is a blank node , iri if it is a uri and literal if it is a literal ."}
+{"gold": "a new resource extension"}
+{"gold": "an closeable http client"}
+{"gold": "the version or null if the version cannot be determined"}
+{"gold": "sdp content or null in case of error"}
+{"gold": "weblogger an instance of weblogger ."}
+{"gold": "the source attribute contained in the given tag"}
+{"gold": "inheritance distance , or - 1 , if cv1t1 is not reference - related to cv2t2"}
+{"gold": "component type representing the implementation type metadata"}
+{"gold": "the object name for the given queue on the virtual host"}
+{"gold": "the value of this attribute if this attribute is present in the extracted map . otherwise # get default value ( )"}
+{"gold": "status : 200 / / 200 400 token 500 msg : \" ok \" / / token . data : \" username \" : \" xbin \" , \" id \" : \" id \" / /"}
+{"gold": "this chat section ' s value parsed as a boolean . note that if the value of the chat section isn ' t a valid boolean , false is returned"}
+{"gold": "non - null object ."}
+{"gold": "the response"}
+{"gold": "a new medication medical record"}
+{"gold": "the current uptime in ms"}
+{"gold": "a list containing all the child nodes of this node ."}
+{"gold": "log object as a formatted string"}
+{"gold": "task that resolves to cached element or null if one cannot be retrieved ; returned task never rethrows any exception"}
+{"gold": "connection ."}
+{"gold": "the minimum length of the string or null if there is no limit"}
+{"gold": "cache statistics impl or an empty statistics if not enabled ."}
+{"gold": "true if the reference is a normal var or function declaration ."}
+{"gold": "user information response object with received values ."}
+{"gold": "the string representation as a comma - separated list ."}
+{"gold": "the istructured text expert instance ."}
+{"gold": "a string representation of the tree"}
+{"gold": "array of key name pair"}
+{"gold": "the service reference ( null if the service is unregistered ) ."}
+{"gold": "returns the unicode string of an iri or the lexical form of a literal or the return value of a to string ( ) on a blank node"}
+{"gold": "the queue wire type"}
+{"gold": "the asnode ."}
+{"gold": "a copy of the stored portlet preferences map ."}
+{"gold": "refactoring supported by the controller ."}
+{"gold": "the resulting element array ( null if the search failed )"}
+{"gold": "a int representing this operation ."}
+{"gold": "function to perform the check"}
+{"gold": "rx java observable with connectivity class containing information about network state , type and name"}
+{"gold": "an audio input stream"}
+{"gold": "the parsed , configured query ."}
+{"gold": "the extension handler used by the domtree manager ."}
+{"gold": "the active mqconnection factory"}
+{"gold": "location object"}
+{"gold": "the type corresponding with the given name ."}
+{"gold": "the cloned bitmap reference without altering this instance or null if already closed"}
+{"gold": "the habit at given position or null if position is invalid"}
+{"gold": "a error level"}
+{"gold": "a error domain"}
+{"gold": "credentials instance corresponding to the given credentials class . null if no such id found ."}
+{"gold": "the list the x _ ad _ replication document"}
+{"gold": "a new lowercase string , or this if it ' s already all - lowercase ."}
+{"gold": "if pre bound change , max post bound conditions are met , send stream event output with extrema type , pre bound ( distance at which a value satisfying pre bound change condition is found ) , post bound ( distance at which a value satisfying post bound change condition is found )"}
+{"gold": "mcolor or null"}
+{"gold": "the extended pipeline"}
+{"gold": "an nvp of the the prior window end time and the effective count per second"}
+{"gold": "null if the value is not valid"}
+{"gold": "a collection of registered font icon sets ."}
+{"gold": "the loop bound limit or null if no annotation was found"}
+{"gold": "the content length of the request , or - 1 if it has not been set"}
+{"gold": "network object"}
+{"gold": "true if running , false if stopped"}
+{"gold": "the warnings for this package details view"}
+{"gold": "value between 0 and 360 degrees"}
+{"gold": "the number of bytes the server received so far"}
+{"gold": "the columns of the table ."}
+{"gold": "project files in that directory ."}
+{"gold": "socket input wrapper for reading from the socket ."}
+{"gold": "the list of entries within the history ids list or an empty list ."}
+{"gold": "all problems indexed by subdocuments names , i . e . empty if all ok , null if validation couldn ' t occur ."}
+{"gold": "true , if the best matching content type for file has an identifier that matches content type id and is kind of used is false , or is a kind of content type id and is kind of used is true . otherwise it returns false ."}
+{"gold": "the extended pipeline"}
+{"gold": "the stored value ."}
+{"gold": "the context , null if not found"}
+{"gold": "the connect object"}
+{"gold": "the value of the ' right ' attribute , null if not set"}

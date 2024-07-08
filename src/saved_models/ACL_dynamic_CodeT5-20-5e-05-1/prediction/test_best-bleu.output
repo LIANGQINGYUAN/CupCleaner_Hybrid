@@ -1,0 +1,736 @@
+{"pred": "the value of this attribute if this attribute is present in the map . otherwise # get default value ( )"}
+{"pred": "the requested visual item , or null if the visual item wasn ' t found and the create parameter is false ."}
+{"pred": "the new out edges data structure ."}
+{"pred": "for an assignment or variable declaration return the assigned value , otherwise null ."}
+{"pred": "the send file transfer that can be used to monitor this transfer ."}
+{"pred": "the maximum length of the string , never null ."}
+{"pred": "the full file manager client built from the cas curator property filemgr . url ."}
+{"pred": "a map of the first two columns . ( first column = > column )"}
+{"pred": "# format key ( string , boolean , boolean , boolean )"}
+{"pred": "the allowed read scopes , never null"}
+{"pred": "the stored value or null if it doesn ' t exist in specified form ."}
+{"pred": "default value as fx value"}
+{"pred": "score for that day"}
+{"pred": "a device admin info object for actual device admins ."}
+{"pred": "if reached , return true ; else , return false ."}
+{"pred": "a new sequence service with the default endpoint url"}
+{"pred": "the latest loaded lsn ."}
+{"pred": "value between 1 and 16 , 777 , 215"}
+{"pred": "true if changes are visible for the scroll insensitive type"}
+{"pred": "a new access token was successfully retrieved , or null if the refresh token was not set"}
+{"pred": "string builder filled with the plain text form of all sentences in the matches panel"}
+{"pred": "an iterable over document requests ."}
+{"pred": "the last time the trigger will fire , or null if the trigger is not active ."}
+{"pred": "the conditions"}
+{"pred": "the main character of a user . returns null if not found ."}
+{"pred": "the border insets object"}
+{"pred": "sdp content , never null"}
+{"pred": "the dir authority context"}
+{"pred": "menu placed under specified control"}
+{"pred": "the offline player by the name of the raw arg"}
+{"pred": "the incidents task"}
+{"pred": "an object name based on the given component key"}
+{"pred": "the source range of \" ident pattern \" in # result code ."}
+{"pred": "the asn1 object"}
+{"pred": "builds a fixture - making object using the given secret jooq dao"}
+{"pred": "a count of the values of the first column of an sql query"}
+{"pred": "the list of action instances to persist , keyed by the class of action . keys with null values indicate actions that should be removed if present ."}
+{"pred": "returns false"}
+{"pred": "a twitter token stream object . notice that , in order to support lucene - like twitter token stream behavior , this object ' s reset method must only be used as reset ( null ) and will reset the twitter token stream to its starting point ."}
+{"pred": "blue value"}
+{"pred": "the async appender base for deferred processing"}
+{"pred": "the digest algorithm identifier or null if no object digest info is set ."}
+{"pred": "project item with specified text without decorators"}
+{"pred": "href , stripped of any fragment"}
+{"pred": "an idkey containing the unique identity hash code"}
+{"pred": "the value of this entry ( in case it is single valued ) , or the first value of this entry ( in case it is multivalued ) ."}
+{"pred": "true if the received query expression matches at least one node in the received xml value ; unknown if either the query expression or the xml value is null ; false otherwise ."}
+{"pred": "a read - only view of the additional http headers which will be included in every request to the server"}
+{"pred": "an closeable http client"}
+{"pred": "the module config object"}
+{"pred": "a valid revision object corresponding to the argument , with a usable corresponding head , or null if malformed or not found"}
+{"pred": "the index list"}
+{"pred": "a svgstyle sheet processing instruction if target is \" xml - stylesheet \" or a generic processing instruction otherwise ."}
+{"pred": "a reporter"}
+{"pred": "the source ."}
+{"pred": "a copy of the mappings if storing by value or the same instance if by reference"}
+{"pred": "the context running this job . in most cases it ' s a service ."}
+{"pred": "ping result"}
+{"pred": "the hostname , null if not found or takes longer than 30s to find"}
+{"pred": "a list of temp files"}
+{"pred": "the failover list composite assigned to it by the server"}
+{"pred": "true if the edit - value is longer then ta _ length chars or if the index of str is longer then num chars"}
+{"pred": "the y location of the top corner of this circle"}
+{"pred": "ping result"}
+{"pred": "an array list of the view objects located in the current activity , never null"}
+{"pred": "the key with which the value will be associated"}
+{"pred": "true if it depends on any of the given add - ons , false otherwise ."}
+{"pred": "a reporter data instance that contains the cached data"}
+{"pred": "current estimated rotation we are at"}
+{"pred": "a criterion that evaluates the raw selection and selection args , or null if the selection is empty"}
+{"pred": "true if text is found and false if it is not found before the timeout"}
+{"pred": "the address of the sender as a inet address ."}
+{"pred": "true if the method has a jsecurity permission required or roles required annotation , false otherwise ."}
+{"pred": "account if they are already set ."}
+{"pred": "list of contact id , if not found invalid _ id is returned"}
+{"pred": "the object name for the given exchange on the test virtual host ."}
+{"pred": "animation builder instance . call com . davemorrissey . labs . subscaleview . subsampling scale image view . animation builder # start ( ) to start the anim ."}
+{"pred": "the instance of fortran editor tasks associated with the given editor , creating the instance on - demand if necessary"}
+{"pred": "the message id , or null if not found"}
+{"pred": "a set with all interfaces . the set may be empty ."}
+{"pred": "when the work has been accepted ."}
+{"pred": "a json node with the result of the cat indices request ."}
+{"pred": "the time when the entry will expire , - 1 otherwise"}
+{"pred": "what modified to account for all , both , and none options ."}
+{"pred": "current directory history , or if empty , only current directory ( as file [ 0 ] ) ."}
+{"pred": "a gobbling object containing the result of the gobble . gobbling # treepath minus gobbled still refers to the _ placeholder _ but some separators and one raw item have been removed ."}
+{"pred": "a paging delegate with instances of org . mule . module . google . calendar . model . calendar list"}
+{"pred": "the property descriptors as a dictionary"}
+{"pred": "a sqlrow ( fetched ) or null ."}
+{"pred": "the base url with no final \" / \" ."}
+{"pred": "the signature as a string ."}
+{"pred": "the authentication token"}
+{"pred": "new instance of the policy to be used by unit tests"}
+{"pred": "a new feature service with the default endpoint url"}
+{"pred": "a hash map representation of the passed in workflow task configuration ' s properties ."}
+{"pred": "- 20 right bytes of the hash keccak of the data"}
+{"pred": "internal source"}
+{"pred": "the id of the newly created node"}
+{"pred": "connection jdbc object ."}
+{"pred": "collected list"}
+{"pred": "label text or [ main text , time text ] ."}
+{"pred": "this , the current instance of builder"}
+{"pred": "true if the server started"}
+{"pred": "unique string representation of the underlying physical connection"}
+{"pred": "object node"}
+{"pred": "the invoking thread ' s contention manager or null"}
+{"pred": "the result as a long value , if no result the long value def val"}
+{"pred": "the android . telecom . connection . video provider ."}
+{"pred": "a prototype factory containing prototypes for ianswer data ' s , idata references , and question data groups . if a factory doesn ' t yet exist , one is created , and default ianswer data implementing classes are pre - populated ."}
+{"pred": "true if the objects are equal ."}
+{"pred": "uri identical to the one provided , with host name swapped with the resolved value"}
+{"pred": "the content length of the response , or - 1 if it has not been set"}
+{"pred": "a type with the given name"}
+{"pred": "green value"}
+{"pred": "twitter token stream to tokenize the text"}
+{"pred": "list of radii , in meters . if there are no rings this returns an empty list ."}
+{"pred": "the extended vertex fluent pipeline"}
+{"pred": "string where the action should flow"}
+{"pred": "string builder filled with the penn treebank forms of all trees in the matches panel"}
+{"pred": "runtime exception or null if the processing should be aborted ."}
+{"pred": "an image list ."}
+{"pred": "the access token string , or null if there is no token ."}
+{"pred": "a user adapter or null if there is only one profile ."}
+{"pred": "# put ( String , object )"}
+{"pred": "true : can launch bundle , false : otherwise"}
+{"pred": "the specified heap object , or null if not found ."}
+{"pred": "the qname of the parameter s mimetype"}
+{"pred": "host name and port , as a string ."}
+{"pred": "the meta object for the containment reference ' state ' ."}
+{"pred": "the home directory of loom"}
+{"pred": "the extended gremlin pipeline"}
+{"pred": "ipath to directory in which native npm call must be performed . basically , the method scans project for package . json file and returns it ' s parent , ignoring \" node _ modules \""}
+{"pred": "a string which must be null if no business re - identification is needed"}
+{"pred": "a async support instance"}
+{"pred": "whether it is text or not"}
+{"pred": "a list with instances of org . mule . module . google . drive . model . org . mule . module . google . drive . model . comment reply"}
+{"pred": "the filter extensions string array ."}
+{"pred": "table metadata object"}
+{"pred": "whether the ways matches ( in sense of \" be mergable \" ) ."}
+{"pred": "clazzes or null if no color classes were applied"}
+{"pred": "set bits in the same order ."}
+{"pred": "the resulting immutable graph"}
+{"pred": "profiler context or null"}
+{"pred": "the list of init params defined in web . xml or application . xml or null"}
+{"pred": "sentence index or config # nonexist if stack doesn ' t have an element at this index"}
+{"pred": "number of seconds if the socket was available , - 1 if we timed - out ."}
+{"pred": "true the serive is started ."}
+{"pred": "the stored value or null if it doesn ' t exist in specified form ."}
+{"pred": "a clip of the combined bullet record so far . the clip has a size that is at most the maximum specified by the aggregation ."}
+{"pred": "the user account name . \" & lt ; anonymous & gt ; \" is returned if # set user account name ( string ) was never called ."}
+{"pred": "the validated char sequence ( never null for chaining )"}
+{"pred": "true if the parquet file has nulls false if the parquet file hasn ' t nulls ."}
+{"pred": "the mapping that was removed or null if the resource was not subscribed to this repo"}
+{"pred": "the annotation type value , or unknown if the supplied destination is null or can ' t be classified"}
+{"pred": "a hash map representation of a workflow instance ."}
+{"pred": "a boolean that is true if this is a raw query window ."}
+{"pred": "a json node with the result of the cat nodes request ."}
+{"pred": "pause transit service ."}
+{"pred": "a lob"}
+{"pred": "the roll cycle in the queue"}
+{"pred": "maximum value ( without checking d , d conditions )"}
+{"pred": "java . rmi . remote . ."}
+{"pred": "the session ' s accessing time in milli seconds since 12 . 00 pm , january 1st , 1970"}
+{"pred": "the validated char sequence ( never null method for chaining )"}
+{"pred": "string array of misspelled words"}
+{"pred": "true if this persistent resource ' s entity is sharable"}
+{"pred": "the count satisfying the above requirements"}
+{"pred": "the symbol drawn at the center of the range fan . may be null ."}
+{"pred": "caption for that handle , or null if not found"}
+{"pred": "domain object"}
+{"pred": "this cloned object"}
+{"pred": "the extended gremlin pipeline"}
+{"pred": "an unmodifiable view of the additional http headers ."}
+{"pred": "a matching method"}
+{"pred": "the method"}
+{"pred": "returns the class field accessor"}
+{"pred": "a map which contains all datatypes"}
+{"pred": "item in this list"}
+{"pred": "the aggregation count"}
+{"pred": "the id"}
+{"pred": "string where the action should flow"}
+{"pred": "the parsed test suites or null if no test suites were found ."}
+{"pred": "this item ' s command , or null if none exists"}
+{"pred": "null ."}
+{"pred": "the result as an int , if no result the int value 0"}
+{"pred": "true if the ddl for all autoincrement columns has been written to the received string buffer . false otherwise ."}
+{"pred": "the id of the last baseline build , or null if not found ."}
+{"pred": "item in the list"}
+{"pred": "list of worker info"}
+{"pred": "the set of cassandra instances"}
+{"pred": "the topic configs"}
+{"pred": "row id or - 1 if error todo : is this where csv data is populating the opencellid table ?"}
+{"pred": "array list if evaluation returned at least one item , or null if not ."}
+{"pred": "the module config object"}
+{"pred": "true if the value was set , false otherwise ."}
+{"pred": "rx java observable with connectivity"}
+{"pred": "the list of action instances to persist , keyed by the class of action . keys with null values indicate actions that should be removed if present ."}
+{"pred": "the com . crowdmap . java . sdk . maps response for the specific post"}
+{"pred": "the created project , or null if file was not writable ."}
+{"pred": "the extended gremlin pipeline"}
+{"pred": "the number of the setter . returns a new setter injection component adapter ."}
+{"pred": "the value of this attribute if this attribute is present in the map . otherwise # get default value ( )"}
+{"pred": "the remaining characters left to be read from the stream"}
+{"pred": "string where the action should flow"}
+{"pred": "# format key ( string , boolean , boolean , boolean ) format colon = false , format at = false , format hyphen = true , first case = true"}
+{"pred": "the naemspace uri mapped to the prefix , or null ."}
+{"pred": "the value of this attribute if this attribute is present in the map . otherwise # get default value ( )"}
+{"pred": "the adapter to test"}
+{"pred": "if the node is part of exactly one way , return this . null otherwise ."}
+{"pred": "the first ( source ) graph node"}
+{"pred": "connection container"}
+{"pred": "an option of the first object of the iteration"}
+{"pred": "the adapter to test"}
+{"pred": "the jenkins job name for the given build config"}
+{"pred": "the extension class instance . might be null if the instanciation fails ."}
+{"pred": "the istructured text expert instance ."}
+{"pred": "list of input splits"}
+{"pred": "result for error in geode while executing command ."}
+{"pred": "a repository metadata initializer corresponding to the repository class parameter ."}
+{"pred": "a response to the given request ."}
+{"pred": "array list with the views found in the current dialog"}
+{"pred": "a list of all actions associated with this branch ( by default , an empty list searching transient action factorys )"}
+{"pred": "null as the method is not supported"}
+{"pred": "true or false ;"}
+{"pred": "the second ( target ) graph node"}
+{"pred": "the host name or null ."}
+{"pred": "true if the current access token has the publish _ actions permission , false otherwise ."}
+{"pred": "in"}
+{"pred": "the istructured text expert instance ."}
+{"pred": "a list containing all the maps"}
+{"pred": "true if the clazz ( or one of its superclasses except for object ) implements the given method . returns false if the method doesn ' t exist anywhere in the class hierarchy or it is abstract ."}
+{"pred": "array of all available versions"}
+{"pred": "string with no directional formatting characters ."}
+{"pred": "the number of bytes required to decode the pi frame"}
+{"pred": "a byte buf holding the bytes contained in this message ."}
+{"pred": "the main window base monitored by sleak . java"}
+{"pred": "the validated char _ sequence ( never null method for chaining )"}
+{"pred": "principal value factory if parameter matched type"}
+{"pred": "the index of the first active message , or - 1 if there was no active message ."}
+{"pred": "an instance of immutable dfa ; null if the builder haven ' t got enough data to create a valid immutable dfa instance ."}
+{"pred": "point determining position of the passed in view inside all of its view parents ."}
+{"pred": "a sub project data containing projects"}
+{"pred": "list containing abstract projects ."}
+{"pred": "the row id of the newly created row"}
+{"pred": "the org . atmosphere . cpr . default meta broadcaster"}
+{"pred": "ua . deprecated use # instance ( )"}
+{"pred": "a duplicated twitter token stream"}
+{"pred": "the column descriptor object describing the column ."}
+{"pred": "vcontext menu object"}
+{"pred": "default temporary workspace or null"}
+{"pred": "the new period count"}
+{"pred": "a mailbox message instance with message metadata ."}
+{"pred": "iserver state"}
+{"pred": "returns all axis mapped to an unmodifiable map"}
+{"pred": "the root node as a string"}
+{"pred": "field , or null if not found"}
+{"pred": "map : from taskid to componentid"}
+{"pred": "true if the object is currently assigned to an mbean or if it is not read only"}
+{"pred": "directory name without preceeding path components"}
+{"pred": "returns the distance"}
+{"pred": "the parent , or null if there is no parent"}
+{"pred": "the material whose name is the same as the raw , or null if no material has that name"}
+{"pred": "url with query params appended with # str"}
+{"pred": "an array list containing all compile error messages"}
+{"pred": "the id of the custom widget"}
+{"pred": "the primary java . net . inet address of the primary network interface or the loopback address as fallback ."}
+{"pred": "true if contact is associated to a rcs raw contact , else false"}
+{"pred": "the hash code for this message ."}
+{"pred": "an array of classes for all the services"}
+{"pred": "cache mode the type"}
+{"pred": "an integer value greater than 0 ."}
+{"pred": "true if the specified year / month / day are outside the range set by min date and max date . if one or either have not been set , they are considered as integer . min _ value and integer . max _ value ."}
+{"pred": "the nested exception or null if there is no nested exception ."}
+{"pred": "table metadata object"}
+{"pred": "true if the specified configuration failed the operation and threw an exception during the lifecycle operation"}
+{"pred": "# format key ( string , boolean , boolean , boolean )"}
+{"pred": "the iproject associated with the project"}
+{"pred": "a fully - configured client"}
+{"pred": "the month of the year as defined by plain calendar"}
+{"pred": "a hash map representation of a workflow ."}
+{"pred": "a string representation of this collection"}
+{"pred": "a applyer that will convert strings into that type , or null if the given type is not a primitive type"}
+{"pred": "the wrapped write blocked mgraph ."}
+{"pred": "a set of all known directly implemented class infos ."}
+{"pred": "a criterion that the field must be equal to the given string , ignoring case . due to a bug in sqlite , this will only work for ascii characters ."}
+{"pred": "the number of bits or null if the description is empty"}
+{"pred": "array of extension registration elements or null if this container has no contributions ."}
+{"pred": "the new dbcompare col expr object"}
+{"pred": "boolean returns a boolean to indicate whether the operation was successful ."}
+{"pred": "the height of the collapsed top sheet ."}
+{"pred": "the category or null if the payload is not set"}
+{"pred": "engine parameter meta data for the prepared statement . note : there is no separate brokered parameter set meta data ."}
+{"pred": "a result set that contains the data produced by the query"}
+{"pred": "the sql to create the synonym . if the dbms is not oracle an empty string"}
+{"pred": "a new annotation model for the editor input or null if not found"}
+{"pred": "parsed gitlab repository name or null if it cannot be parsed from the specified url"}
+{"pred": "the value ( for each value that exists )"}
+{"pred": "number of entries that were evicted"}
+{"pred": "number of hosts for this bucket"}
+{"pred": "true if the relations changed in a way that requires an update to the relation owner , false otherwise ."}
+{"pred": "array of summary entries , null if not found"}
+{"pred": "the removed handle if it was present before the invocation of this method"}
+{"pred": "true if the object1 is an ancestor of the object2 ."}
+{"pred": "a object ."}
+{"pred": "activity options that controls how the window of the opening targets are displayed ."}
+{"pred": "the new partition template"}
+{"pred": "the customer with the given resource uri , or null if it doesn ' t exist"}
+{"pred": "map ibuild configuration - > incremental project builder if this build command supports multiple configurations . otherwise return the incremental project builder associated with this build command ."}
+{"pred": "collection of all distances for a specific run on a specific year"}
+{"pred": "this , the current instance of Builder"}
+{"pred": "the label bounds , in lower - left origin screen coordinates ."}
+{"pred": "a sorted set of all of the names that have already been used ."}
+{"pred": "the istructured text expert instance ."}
+{"pred": "the text of the last input state tag or null if none ."}
+{"pred": "the validated char sequence ( never null for method chaining )"}
+{"pred": "a big integer representation of the number with no decimal"}
+{"pred": "whether is successful to update all tasks ' status to the filedownloader engine . if one task atom among them is not match the rules in com . liulishuo . filedownloader . services . file download mgr # obtain completed task shelf model ( string , string , long ) will receive false , and non of them would be updated to db ."}
+{"pred": "null if unknown type , null cannot be used to create valid event breakpoint"}
+{"pred": "the traceability index of the current repository . if none find , creates it"}
+{"pred": "possible object is jpa version"}
+{"pred": "the scope container for the module scope that will be associated with this deployment unit"}
+{"pred": "an array of long mappings to the update count per sql command ."}
+{"pred": "all item ids filtered by given key ."}
+{"pred": "true if the given position is on the ad view"}
+{"pred": "true if the button is visible and custom overflow animation is assigned ."}
+{"pred": "type string"}
+{"pred": "the env"}
+{"pred": "the updated merge policy"}
+{"pred": "true if there are no pending messages"}
+{"pred": "if d , l conditions are met , send stream event output with extrema type , pre bound change , actual _ l ( distance at which a value satisfying d condition is found ) , pre bound change ( distance at which a value satisfying d condition is found )"}
+{"pred": "the path to the optimized image"}
+{"pred": "context ."}
+{"pred": "the errors that already exist in the request , or a new action messages object if empty ."}
+{"pred": "one of # acc _ private , # acc _ protected , # acc _ package or # acc _ public ."}
+{"pred": "true if habit has reminder"}
+{"pred": "double the yaw euler angle ."}
+{"pred": "the time in seconds the specified session may remain idle before expiring ."}
+{"pred": "vcard config # version _ 21"}
+{"pred": "the receiver ."}
+{"pred": "the immutable graph read from the stream"}
+{"pred": "a set of interfaces ."}
+{"pred": "returns tool item label text"}
+{"pred": "media hold by media list , should not be released ."}
+{"pred": "the value of the ' top ' css - attribute , never null"}
+{"pred": "a new com . yammer . metrics . core . timer"}
+{"pred": "new foreground color based on the supplied background color"}
+{"pred": "a hashed version of the passed - in string"}
+{"pred": "a new calendar instance with the date set to today . time set to zero ."}
+{"pred": "the path representing the provided uri , or null if the provided uri is null"}
+{"pred": ": set of thrift sentry role objects"}
+{"pred": "string return the string"}
+{"pred": "an array of component container children"}
+{"pred": "byte array of the aggreagtor values"}
+{"pred": "the modules needing ref ( excluding it ) , in uninstallation order ( i . e . the first item isn ' t depended on ) ."}
+{"pred": "a formatted challege response , as an array of bytes ."}
+{"pred": "an aggregated account instance representing account across all the successfully consulted realms ."}
+{"pred": "true if the bundle is already in the descriptor , else false"}
+{"pred": "a druid dimension value load task"}
+{"pred": "an error , because querys could ' t add new records to the database"}
+{"pred": "the mouse cursor y position or - 1 if there is no mouse cursor"}
+{"pred": "true if this authentication realm \" understands \" how to process submissions for the submitted token , false otherwise ."}
+{"pred": "score for that day"}
+{"pred": "a subset simple configuration using the prefix # app _ prefix . any change made to subset will be reflected in this configuration , but with the prefix added . this method is useful for setting application configuration before initialization . for reading application configuration after initialization , see fluo client # get app configuration ( )"}
+{"pred": "the list of initial service reference objects ."}
+{"pred": "the utf - 8 content of the input stream ."}
+{"pred": "the original throwable ."}
+{"pred": "a date of the format \" thu oct 18 20 : 21 : 13 2001 \""}
+{"pred": "a map of topic names to topic metadatas"}
+{"pred": "one of the following application running states : iserver # state _ started , iserver # state _ starting , iserver # state _ stopped , iserver # state _ stopping , iserver # state _ stopping , iserver # state _ unknown"}
+{"pred": "the status of the row"}
+{"pred": "valid user"}
+{"pred": "the frame to be displayed or null ."}
+{"pred": "the package id for the given apk , or null if it could not be determined ."}
+{"pred": "a valid url , if all went well ; else null"}
+{"pred": "an iterator of all child nodes of this node ."}
+{"pred": "the status of the operation ."}
+{"pred": "set method or null if none found ."}
+{"pred": "a reference result containing the class names and class member signatures found in the method ."}
+{"pred": "a tree map of strings of two strings consisting of the family and a font file in that family"}
+{"pred": "the final file name of the saved script"}
+{"pred": "an element representing a schema"}
+{"pred": "the result of interpretting the object as an instance of ' s type ' ."}
+{"pred": "the next element obf the iteration"}
+{"pred": "a subject representing the authenticated account ."}
+{"pred": "a future for accessing the results of the asynchronous request ."}
+{"pred": "parsed merkle tree leaf ."}
+{"pred": "the result as a int value , if no result the int value 0"}
+{"pred": "activity options that controls how the window of the opening targets are displayed ."}
+{"pred": "0 for success , - 1 for fail"}
+{"pred": "a by which locates a elements that contain the given partial link text ."}
+{"pred": "expression to match columns from name list"}
+{"pred": "the value of this attribute if this attribute is present in the map . otherwise # get default value ( )"}
+{"pred": "current directory history ."}
+{"pred": "an array list containing all compile error messages"}
+{"pred": "the total number of additional items in this adapter ."}
+{"pred": "the n - triples representation of the supplied value , or # null _ param _ value if the supplied value was null ."}
+{"pred": "minimum value ( without checking d , d conditions )"}
+{"pred": "injection from string instance"}
+{"pred": "buffered reader , if all went well ; null if file not found ."}
+{"pred": "input value without any characters that might not be allowed for a filename , or null if the input is null"}
+{"pred": "user information response object or null"}
+{"pred": "project corresponding to the right child"}
+{"pred": "the irunnable with progress operation associated with this page that should be run during the wizard ' s do run epilogue ( ) method . this operation should only be executed if in fact the page is visible ."}
+{"pred": "the value for this accumulator"}
+{"pred": "an open file , or null if no suitable output was produced"}
+{"pred": "the update counts as an int [ ]"}
+{"pred": "the cost corresponding to the cv1 target and the cv2 source"}
+{"pred": "red value"}
+{"pred": "list of priority messages"}
+{"pred": "ipath to directory in which native bower call must be performed . basically , the method scans project for bower . json file and returns it ' s parent , ignoring components directories i . e \" bower _ components \" or defined in . bowerrc file"}
+{"pred": "the minimum java version required to run this add - on or an empty string if no minimum version"}
+{"pred": "the response , or null if something bad happened"}
+{"pred": "the session id which now contains the memcached id ."}
+{"pred": "the physical type used by the runtime"}
+{"pred": "the field map [ field _ name , type ] ."}
+{"pred": "a reference result containing the class names and class member signatures found in the class ."}
+{"pred": "the extended gremlin pipeline"}
+{"pred": "map of properties to uri"}
+{"pred": "the cmd line option validator results ."}
+{"pred": "the color schema"}
+{"pred": "a parameter list containing the body parameters ."}
+{"pred": "the session tracker valve . session backup service . backup result status"}
+{"pred": "the created project , or null if file was not writable ."}
+{"pred": "the decoded value type or # directed if the char does not map to a value type"}
+{"pred": "the crowdmap id"}
+{"pred": "a map which contains all datatypes"}
+{"pred": "iterator the ports specified in the wsdl file"}
+{"pred": "result of calling support # calculate buffer size ( int , int ) ."}
+{"pred": "list of cookies that were read ."}
+{"pred": "a jsonobject which is the value , or null if not found ."}
+{"pred": "true if the token is empty ( token = \" \" , token secret = \" \" )"}
+{"pred": "the char [ ] . . ."}
+{"pred": "protocol connection ."}
+{"pred": "session state ( - 1 : not started , 0 : pending , 1 : canceled , 2 : established , 3 : terminated )"}
+{"pred": "true if content is equal , false otherwise ."}
+{"pred": "a binary visitor that will call println ( x ) on the java . io . print stream y"}
+{"pred": "module jar class loader"}
+{"pred": "returns the charset ."}
+{"pred": "the entity as an entity ."}
+{"pred": "current number of words for the given study set"}
+{"pred": "number of terminals hosted by the toolbar button"}
+{"pred": "the provider descriptor , never null . this object and all of its contents should be treated as if it were immutable so it is safe for clients to cache it ."}
+{"pred": "vol - the amount of rejected volume to be sent back into the conductor"}
+{"pred": "the maximum size of tiles in pixels"}
+{"pred": "the key size , or unknown _ key _ size if the key parameter is not asymmetric"}
+{"pred": "a finder that uses the ui element returned by first finder as context for the second finder"}
+{"pred": "the visual item located at the given point , if any"}
+{"pred": "the next power of two that is larger than the specified value"}
+{"pred": "the operator ' s arguments ."}
+{"pred": "the value of this attribute if this attribute is present in the map . otherwise # get default value ( )"}
+{"pred": "the component metadata plus composites ."}
+{"pred": "time , in seconds ."}
+{"pred": "the jenkins job name for the given namespace and build config name"}
+{"pred": "the server port"}
+{"pred": "cube request cube change request"}
+{"pred": "the path of the document"}
+{"pred": "an instance of the specified class , or null if the constructor doesn ' t exist"}
+{"pred": "a chat object that can be used to send and recieve lines of text . returns null if the connection could not be made ."}
+{"pred": "true if the left and right side of the viewer are mirrored . default is false ."}
+{"pred": "the stored value or null if it doesn ' t exist in specified form ."}
+{"pred": "the memory usage in # unit"}
+{"pred": "sentence index or config # nonexist if stack doesn ' t have an element at this index"}
+{"pred": "a repository method metadata initializer corresponding to the method parameter ."}
+{"pred": "the error encountered , or null if the request succeeded"}
+{"pred": "document collection of document id - > string [ ' val1 ' , ' val2 ' . . . ]"}
+{"pred": "the stored value or null if it doesn ' t exist in specified form ."}
+{"pred": "the list of currently open build configurations in the workspace in the order in which they would be built by iworkspace . build ."}
+{"pred": "a sqlrow values ."}
+{"pred": "a stream with test entries"}
+{"pred": "media list , should not be released ."}
+{"pred": "the set of file ids which are currently on the queue will be normally be used when deciding which data files can be deleted"}
+{"pred": "string with no directional formatting characters ."}
+{"pred": "boolean denoting if query has expired ."}
+{"pred": "ok status if deployment information is complete and valid . error if failed to validate , or is invalid ( i . e . it is missing information ) ."}
+{"pred": "the player by the name of the raw arg - null if ( s ) he isn ' t online"}
+{"pred": "the reply count , or 0 if no reply arrives before the timeout ."}
+{"pred": "get method or null if none found ."}
+{"pred": "map with columns names as keys and their values"}
+{"pred": "the slant type in which this conveyor belt is slanting against . the direction given is the opposite point of the slant . return unknown if not slanting ."}
+{"pred": "a hash map representation of a workflow instance page ."}
+{"pred": "this & & right"}
+{"pred": "the key to adapter cache"}
+{"pred": "a com . r0adkll . slidr interface that allows the user to lock / unlock the sliding mechanism for whatever purpose ."}
+{"pred": "true if the extension is \" . gz . yammer \" , false otherwise"}
+{"pred": "the associated atmosphere request"}
+{"pred": "an array of vcpu info object describing the vcpus"}
+{"pred": "the document factory if an error occurs ."}
+{"pred": "column name , i . e . c _ valid combination . columnname _ c _ org trx , i _ c _ valid combination . columnname _ c _ project _ id , i _ c _ valid combination . columnname _ c _ loc from _ id , i _ c _ valid combination . columnname _ c _ loc to _ id ; i . e . c _ valid combination . columnname _ c _ loc to _ id ; i . e . c _ valid combination"}
+{"pred": "the maximum line length ( currently fixed at 512 )"}
+{"pred": "new org . apache . poi . ss . usermodel . workbook generated by inserting beans into corresponding excel template"}
+{"pred": "this"}
+{"pred": "the list of kdcs or null if not found"}
+{"pred": "the time of the last record"}
+{"pred": "the factory that creates entity managers configured according to the specified persistence unit ."}
+{"pred": "a paging delegate that returns a list with instances of org . mule . module . google . drive . model . comment"}
+{"pred": "ok , 404"}
+{"pred": "cube request cube change request"}
+{"pred": "an unmodifiable collection of all selected objects ."}
+{"pred": "the year class when this device would have been considered top - of - the - line ."}
+{"pred": "the time of the first record"}
+{"pred": "the scmsource criteria . probe or null if this source cannot be probed ."}
+{"pred": "array of configuration elements or null if this container has no contributions ."}
+{"pred": "uri with properties on ."}
+{"pred": "true if there is some ( valid ) value available for this option ."}
+{"pred": "double the pitch euler angle ."}
+{"pred": "subject or empty string if there is no subject"}
+{"pred": "apiresult"}
+{"pred": "true if the clazz ( or one of its superclasses ) implements the given method . returns false if the method doesn ' t exist anywhere in the class hierarchy or it is abstract ."}
+{"pred": "boolean returns a boolean to indicate whether the operation was successful ."}
+{"pred": "a list with the last element in this list with the count of friends"}
+{"pred": "the action of the previous build , or null if no such action exists"}
+{"pred": "true if the device is resolvable ."}
+{"pred": "a collection which contains the grant information ."}
+{"pred": "the multi join corresponding to this multijoin"}
+{"pred": "whether this chat section ' s raw argument can be parsed as a boolean"}
+{"pred": "true if the annotated type mirror contains the unknown val or array len annotation mirror , false otherwise"}
+{"pred": "a jsonarray which is the value , or null if not found ."}
+{"pred": "the balance in the world"}
+{"pred": "the package"}
+{"pred": "true for visible , false for invisible"}
+{"pred": "the component template"}
+{"pred": "index name and set of graylog deflector indices"}
+{"pred": "the last selected day , or null if no selection"}
+{"pred": "the annotation type object , or null if the supplied destination is null or can ' t be classified"}
+{"pred": "the current draw queue type for this scene"}
+{"pred": "built timestamped entry ."}
+{"pred": "the decoded value type or # directed if the char does not map to a value type"}
+{"pred": "a array list with keys string ( values . to string ( ) ) and with values version apk"}
+{"pred": "set of component type codes"}
+{"pred": "the charset used to send outgoing messages , or null if not set ."}
+{"pred": "true if the method has a jsecurity requires permissions or requires roles annotation , false otherwise ."}
+{"pred": "abstract builder node ( this ) to allow for method chaining ."}
+{"pred": "a paging delegate with instance of org . mule . module . google . drive . model . change"}
+{"pred": "the currently attached flyout fragment ."}
+{"pred": "double the roll euler angle ."}
+{"pred": "opaque string handle for this terminal instance , or null if terminal has never been attached to a process"}
+{"pred": "the x location of the left corner of this circle"}
+{"pred": "the corresponding slaregistration bean list ."}
+{"pred": "birth date the date of birth different providers may use different formats"}
+{"pred": "true if transformation was successfully applied on referenced child , otherwise child be not the target and therefore animation was skipped"}
+{"pred": "a read lock if the underlying graph is a read lockable mgraph it returns its lock , otherwise null"}
+{"pred": "the list the x _ ad _ replication table"}
+{"pred": "the results of the ldap directory search ."}
+{"pred": "a binary visitor that will call write ( x ) on the java . io . writer y"}
+{"pred": "an aggregated authentication info instance representing authentication info data across all the successfully consulted realms ."}
+{"pred": "concurrent hash map of product type ids mapped to their parent id"}
+{"pred": "the icursor backing this squid cursor"}
+{"pred": "the place type corresponding to the provided name ."}
+{"pred": "the itype of the iastdeclarator parameter"}
+{"pred": "the created project , or null if file was not writable ."}
+{"pred": "the current isolation level . if no transaction is active , this may be null ."}
+{"pred": "visitor"}
+{"pred": "object as a json string"}
+{"pred": "true if item collection contains the item , false otherwise ."}
+{"pred": "a sql kind value , never null"}
+{"pred": "42 ."}
+{"pred": "the user information response object"}
+{"pred": "wsdl definition"}
+{"pred": "the map the key type and the value type"}
+{"pred": "global configuration table name including the correct config schema"}
+{"pred": "corresponding session value"}
+{"pred": "the cause of this exception or null if no cause was specified ."}
+{"pred": "number"}
+{"pred": "effect the next effect to use"}
+{"pred": "if the first result is an update count , if it ' s a result set"}
+{"pred": "if wait time is less than 200ms , it returns value * 10 , otherwise failure ."}
+{"pred": "the hash or null if no object digest info is set ."}
+{"pred": "map of properties or empty map if object is null"}
+{"pred": "the value for the given unescaped tag ."}
+{"pred": "item"}
+{"pred": "an array of roles"}
+{"pred": "a string representation of the message"}
+{"pred": "true if fast slew is on , false if not"}
+{"pred": "newly created required container"}
+{"pred": "an urlencoded string , won ' t be null or empty ( at least 2 entries : group and job )"}
+{"pred": "an aggregated twitter token stream"}
+{"pred": "score for that day or 0 if not found"}
+{"pred": "this , the current instance of a new Builder instance configured with the value of option # unlimited _ values option ."}
+{"pred": "any subset of orphaned , representing those children which ought to be removed from the folder now ( by default , all of them ) ; items not listed will be left alone for the time being"}
+{"pred": "the active mqconnection factory"}
+{"pred": "true if the queue is buffered , false otherwise"}
+{"pred": "the wrapping rounded drawable , or the original drawable if the wrapping didn ' t take place or it took place on a drawable ' s parent"}
+{"pred": "true if end of char [ ] is reached , false is the character is encountered ."}
+{"pred": "a builder which will support plain object # equals ( object ) equals & plain object # hash code ( ) hash code but not support plain comparable # compare to ( object ) compare to ."}
+{"pred": "a filtered environment for the calling environment ."}
+{"pred": "the next power of two that is larger than the specified value ."}
+{"pred": "a pair of binary train treebank , binary tune treebank ."}
+{"pred": "the list of action instances to persist , keyed by the class of action . keys with null values indicate actions that should be removed if present ."}
+{"pred": "the web client for the current http session or null if there is not a web client created yet"}
+{"pred": "an open file , or null if no suitable output was produced"}
+{"pred": "the maximum query evaluation time"}
+{"pred": "requisition line [ ]"}
+{"pred": "a match finder that is the logical disjunction of given finders"}
+{"pred": "true if the element could not be added because the buffer needs to be drained"}
+{"pred": "true the instance of the collection type and there are no resolving adapters"}
+{"pred": "a buffered input stream for reading the resource , or null if not found ."}
+{"pred": "the value of this attribute if this attribute is present in the map . otherwise # get default value ( )"}
+{"pred": "the list of init params defined in web . xml or application . xml or null"}
+{"pred": "the new method or an existing method with that member id ."}
+{"pred": "the project configurations of an empty array if none exist ."}
+{"pred": "the scaleway cloud associated with the specified cloud name"}
+{"pred": "connected server node or null if not found"}
+{"pred": "an xml - rpc hash map representation of the workflow condition to send over the wire ."}
+{"pred": "ipath to the idl base folder or null if the company prefix is not set"}
+{"pred": "true if the node was written to the chosen read buffer , false otherwise"}
+{"pred": "a new lookup service with the default endpoint url"}
+{"pred": "a match finder that is the logical conjunction of given finders"}
+{"pred": "an approximate of the current time in nanoseconds"}
+{"pred": "the name of the table that this column comes from . null if not a column reference ."}
+{"pred": "whether the first user can modify the second"}
+{"pred": "true if the type has the annotation or , if a wildcard , the type has the annotation on its extends bound"}
+{"pred": "sha - 1 of pattern , or encrypted string of its ."}
+{"pred": "the value of this attribute if this attribute is present in the map . otherwise # get default value ( )"}
+{"pred": "an array of groups"}
+{"pred": "previous sibling treepath if sibling was found , null otherwise ."}
+{"pred": "date"}
+{"pred": "window to show in the portlet , never null"}
+{"pred": "true if the search is found"}
+{"pred": "always returns derby database # protocol ."}
+{"pred": "the extended gremlin pipeline"}
+{"pred": "a list of the package names that will be searched for property editors ."}
+{"pred": "new background color based on the supplied foreground color"}
+{"pred": "a list with instances of org . mule . module . google . task . model . task list"}
+{"pred": "the extended gremlin pipeline"}
+{"pred": "the newly built builder ."}
+{"pred": "a subset simple configuration using the prefix # reporter _ prefix with the reporter parameter appended . any change made to subset will be reflected in this configuration , but with the prefix added ."}
+{"pred": "object value of the property"}
+{"pred": "true if the component is \" alive \" a . k . a . not disposing or disposed ."}
+{"pred": "the sink file in the queue"}
+{"pred": "a list with instances of org . mule . module . google . drive . model . file"}
+{"pred": "animation builder instance . call com . davemorrissey . labs . subscaleview . subsampling scale image view . animation builder # start ( ) to start the anim ."}
+{"pred": "new request instance configured with the value of # to array ( int count , int page , string name , boolean )"}
+{"pred": "whether the objects are equal in terms of numeric value ."}
+{"pred": "connection result state return true , otherwise it returns false ."}
+{"pred": "the stored value or null if it doesn ' t exist in specified form ."}
+{"pred": "t total of values seen"}
+{"pred": "total count of users"}
+{"pred": "list of objects whose view has been filtered"}
+{"pred": "returns a url"}
+{"pred": "a parameter list containing the query string parameters"}
+{"pred": "an item [ ]"}
+{"pred": "a w3 cwidget instance"}
+{"pred": "the chronology that the instant is using"}
+{"pred": "form encoded string or empty string"}
+{"pred": "a list of accept entities ."}
+{"pred": "read operation sail branch"}
+{"pred": "list of all derived types"}
+{"pred": "the empty pathway"}
+{"pred": "a instant run verifier status instance if the method is not making any blacklisted calls ."}
+{"pred": "null if we wrote a schema , null if we didn ' t ."}
+{"pred": "the node or null on error ."}
+{"pred": "a collection containing all primitives of the dataset . the data is ordered after : first come nodes , then ways , then relations . ordering in between the categories is not guaranteed ."}
+{"pred": "true if \" default \" is set , false otherwise ."}
+{"pred": "bnode if it is a blank node otherwise a iri"}
+{"pred": "a new variation service with the default endpoint url"}
+{"pred": "current cost price ll sum current cost price level high for this cost element type"}
+{"pred": "an object instance of id passed in parameter"}
+{"pred": "qname fully qualified name of the port type"}
+{"pred": "s the location in display coordinates or null iff unchanged"}
+{"pred": "returns true if it is in melee distance"}
+{"pred": "bnode if it is a blank node , uri ref if it is a uri and literal if it is a literal ."}
+{"pred": "a new resource test rule instance"}
+{"pred": "an closeable http client"}
+{"pred": "the version , or null if not supported ."}
+{"pred": "sdp content , never null"}
+{"pred": "weblogger an instance of weblogger ."}
+{"pred": "the source path or null if not defined"}
+{"pred": "the inheritance depth of cv1 target and cv2 source"}
+{"pred": "component type representing the implementation type metadata"}
+{"pred": "the object name for the given exchange on the test virtual host ."}
+{"pred": "the value of this attribute if this attribute is present in the map . otherwise # get default value ( )"}
+{"pred": "status : 200 / / 200 400 token 500 msg : \" ok \" / / token . data : \" user \" : \" xbin \" / /"}
+{"pred": "this chat section ' s value parsed as a boolean . if the value of the chat section isn ' t a valid boolean , false is returned"}
+{"pred": "the next sibling of the given treepath ."}
+{"pred": "the http response"}
+{"pred": "the target medical record body information ."}
+{"pred": "the current time in ms"}
+{"pred": "a list containing all the child nodes of this node ."}
+{"pred": "log object formatted as a string"}
+{"pred": "listenable future that resolves to cached element or null if one cannot be retrieved ; returned future never rethrows any exception"}
+{"pred": "protocol connection ."}
+{"pred": "the minimum length of the string , never null ."}
+{"pred": "cache statistics impl ."}
+{"pred": "true if the reference is a normal var declaration ( only normal vars can be inlined ) ."}
+{"pred": "user information response object"}
+{"pred": "the string representation as a comma - separated list of simple annotation names ."}
+{"pred": "the istructured text expert instance ."}
+{"pred": "the string representation of the input node"}
+{"pred": "array of key name pairs or null if the query was not executed ."}
+{"pred": "the service reference ( null if the service is unregistred ) ."}
+{"pred": "returns the unicode string of an iri or the lexical form of a literal or the return value of a to string ( ) on a bnode"}
+{"pred": "the wire type from the queue"}
+{"pred": "the astnode ."}
+{"pred": "a copy of the stored portlet preferences map ."}
+{"pred": "refactoring supported by the controller ."}
+{"pred": "the resulting element array ( null if the search failed )"}
+{"pred": "an int representing this operation ."}
+{"pred": "validation consumer"}
+{"pred": "rx java observable with connectivity"}
+{"pred": "a line"}
+{"pred": "the parsed , configured query ."}
+{"pred": "the extension handler used by this generator context instance"}
+{"pred": "the active mqconnection factory"}
+{"pred": "location containing the requested the geocoded field"}
+{"pred": "the type ."}
+{"pred": "the cloned bitmap reference without altering this instance"}
+{"pred": "the habit at the given position , or null if the position is out of range"}
+{"pred": "a error level"}
+{"pred": "a error domain"}
+{"pred": "credentials instance corresponding to the given credentials class . null if no such id found ."}
+{"pred": "the list the x _ ad _ replication document"}
+{"pred": "a new string containing the lowercase characters equivalent to the characters in this string ."}
+{"pred": "if d , l conditions are met , send stream event output with extrema type , pre bound change , actual _ l ( distance at which a value satisfying d condition is found ) , pre bound change ( distance at which a value satisfying d condition is found )"}
+{"pred": "mcolor or null"}
+{"pred": "the extended gremlin pipeline"}
+{"pred": "the prior window"}
+{"pred": "import mode if the value is not valid"}
+{"pred": "a collection of registered icon sets ."}
+{"pred": "the loop bound or null if no annotation was found or the annotation was erroneous"}
+{"pred": "the content length of the request , or - 1 if it has not been set"}
+{"pred": "network object"}
+{"pred": "the running state"}
+{"pred": "all warnings of this package"}
+{"pred": "value between 0 and 360"}
+{"pred": "the number of bytes server received"}
+{"pred": "a list with workbench . db . column identifier objects or null if not found"}
+{"pred": "project files in that directory , sorted alphabetically ."}
+{"pred": "socket input wrapper for reading from the socket ."}
+{"pred": "the list of entries within the history entries list or an empty array ."}
+{"pred": "all problems indexed by subdocuments names , ie empty if all ok ."}
+{"pred": "true iff the best matching content type has an identifier that matches content type id ; false otherwise ."}
+{"pred": "the extended fluent pipeline"}
+{"pred": "the stored value or null if it doesn ' t exist in specified form ."}
+{"pred": "the context , null if no context could be found"}
+{"pred": "the connect object"}
+{"pred": "the value of the ' right ' css - attribute , never null"}

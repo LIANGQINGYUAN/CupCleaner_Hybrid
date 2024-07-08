@@ -1,0 +1,150 @@
+{"pred": "@param preferred"}
+{"pred": "@param scenarioPattern"}
+{"pred": "@param req the  AtmosphereRequest"}
+{"pred": "@param bindingContext the annotation binding context with access to the service registry and the annotation index"}
+{"pred": "@param client client model (required)"}
+{"pred": "@param requiredFile file to upload (required)"}
+{"pred": "@param entityName"}
+{"pred": "@param req the  AtmosphereRequest"}
+{"pred": "@param operation operator"}
+{"pred": "@param requiredFile file to upload (required)"}
+{"pred": "@param expected Expected expressions"}
+{"pred": "@param client client model (required)"}
+{"pred": "@param order order placed for purchasing the pet"}
+{"pred": "@param schema Schema to get example string for"}
+{"pred": "@param in"}
+{"pred": "@param aliasedLockOptions a map of lock options indexed by aliased table names."}
+{"pred": "@param param is the Parameter object, which represents the parameter"}
+{"pred": "@param body (User) Updated user object (required)"}
+{"pred": "@param duration the new duration"}
+{"pred": "@param booleanPostBody Input boolean as post body (optional)"}
+{"pred": "@param encodedImage Next set of bytes received by the caller"}
+{"pred": "@param fieldType field should operate in UTC or be time zone agnostic"}
+{"pred": "@param user List of user object"}
+{"pred": "@param lng the long to examine."}
+{"pred": "@param clauses clauses"}
+{"pred": "@param p Swagger Schema object"}
+{"pred": "@param maxEdits"}
+{"pred": "@param file1 the current base directory, may be null."}
+{"pred": "@param partial the instant to compare to"}
+{"pred": "@param toolBar the toolbar"}
+{"pred": "@param file2 the file for which the new base directory should be returned."}
+{"pred": "@param regex the string to be searched. The parameter will be interpreted as a regular expression."}
+{"pred": "@param target The target allocator to create an association with."}
+{"pred": "@param onlyVisible  true if only texts visible on the screen should be searched"}
+{"pred": "@param c An instance of  AtmosphereServlet.AtmosphereConfig"}
+{"pred": "@param v the long to examine."}
+{"pred": "@param jdbcEnvironment The dialect in effect"}
+{"pred": "@param authorityContext the dir context"}
+{"pred": "@param in The file to read from. This should contain a single protocol buffer and nothing else."}
+{"pred": "@param action the action to be performed on eureka server. Try the fallback servers in case of problems communicating to the primary one."}
+{"pred": "@param regex the string to be searched. The parameter will be interpreted as a regular expression."}
+{"pred": "@param enversService Envers service."}
+{"pred": "@param client client model (required)"}
+{"pred": "@param schema Swagger property object"}
+{"pred": "@param ctxdate The document date"}
+{"pred": "@param outerComposite Input composite as post body"}
+{"pred": "@param o the message to broadcast."}
+{"pred": "@param client client model (required)"}
+{"pred": "@param cuboid an on-tree cuboid"}
+{"pred": "@param qualified the alias of the from item"}
+{"pred": "@return One of the following application running states: {@link IServer#STATE_STARTED}, {@link IServer#STATE_STARTING}, {@link IServer#STATE_STOPPED}, {@link IServer#STATE_STOPPING}, {@link IServer#STATE_UNKNOWN} or {@link IServer#STATE_CANCELED}"}
+{"pred": "@return The pkg"}
+{"pred": "@return javax.swing.ZapTextArea"}
+{"pred": "@return red value"}
+{"pred": "@return read operation {@link SailBranch}"}
+{"pred": "@return item in this list as a double"}
+{"pred": "@return byte array of the aggreagtor values"}
+{"pred": "@return the {@link org.atmosphere.cpr.DefaultMetaBroadcaster}"}
+{"pred": "@return If reached, return true; else, return false."}
+{"pred": "@return null if the value is not valid"}
+{"pred": "@return Built {@link TimestampedEntry}."}
+{"pred": "@return a  long value which contains the number of nanoseconds, never  null"}
+{"pred": "@return The {@link android.telecom.Connection.VideoProvider}."}
+{"pred": "@return a ErrorLevel"}
+{"pred": "@return project files in that directory."}
+{"pred": "@return the extended GremlinPipeline"}
+{"pred": "@return the matching option, or null if no match is found"}
+{"pred": "@return the index of the oldest active message."}
+{"pred": "@return Credentials instance corresponding to the given Credentials class. Null if no such id found."}
+{"pred": "@return the positions offset for the header or, 3 positions, for after the body (the third position is just to indicate that it's the body, the value is meaningless)"}
+{"pred": "@return double The yaw Euler angle in degrees."}
+{"pred": "@return the next power of two that is larger than the specified int value."}
+{"pred": "@return the response, or null if something bad happened"}
+{"pred": "@return The generated proxy."}
+{"pred": "@return true if the input can be combined into a parent MultiJoin"}
+{"pred": "@return new {@link org.apache.poi.ss.usermodel.Workbook} generated by inserting beans into corresponding excel template"}
+{"pred": "@return The x location of the left of this circle"}
+{"pred": "@return The stored value or null if it doesn't exist in specified form."}
+{"pred": "@return the list of KDCs or <code>null</code> if not set."}
+{"pred": "@return caption for that handle, or null if not found"}
+{"pred": "@return a string representation of this collection"}
+{"pred": "@return javax.swing.ZapTextArea"}
+{"pred": "@return the converted value, or the default value if the conversion could not be made"}
+{"pred": "@return {@link AnimationBuilder} instance. Call {@link com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView.AnimationBuilder#start()} to start the anim."}
+{"pred": "@return data stored for the specified renderer"}
+{"pred": "@return An annotator as specified by the given factory."}
+{"pred": "@return A configuration configured via the stream, never  null"}
+{"pred": "@return the validated character sequence (never {@code null} for method chaining)"}
+{"pred": "@return Returns the charset name."}
+{"pred": "@return the adapter to test, not null"}
+{"pred": "@return true if the gzip compression should be used if the client accespts it. Default this option is tuned off."}
+{"pred": "@return threshold, default IN_SUBQUERY_THRESHOLD"}
+{"pred": "@return an array of long mappings to the update count per SQL command."}
+{"pred": "@return the maximum size of tiles in pixels"}
+{"pred": "@return the extended GremlinPipeline"}
+{"pred": "@return a Subject representing the authenticated account."}
+{"pred": "@return Set of all selected objects."}
+{"pred": "@return a {@link Criterion} that evaluates the raw selection and selection args, null if selection is empty"}
+{"pred": "@return a  FieldValueInfo"}
+{"pred": "@return the current time in ms"}
+{"pred": "Provides a list containing four SubProjectData, each containing projects to be displayed on the project view for projects using the parameterized trigger plugin under 'Subprojects'."}
+{"pred": "Returns true if, the serverName is keeping the lock for the lockPath"}
+{"pred": "Checks if a flag is set."}
+{"pred": "This method initializes ZapTextArea"}
+{"pred": "Returns the common base directory between a given file1 and a given file2."}
+{"pred": "Return the set of Cassandra instances ordered by position on ring, indicated by token."}
+{"pred": "Removes the content source from this repo, if it exists."}
+{"pred": "First authenticates the AuthenticationToken argument, and if successful, constructs a Subject instance representing the authenticated account's identity."}
+{"pred": "Looks up a specific thing based on some SCM-specific set of permissible syntaxes."}
+{"pred": "Invoke the  BlockingIOCometSupport."}
+{"pred": "Return the  org.atmosphere.cpr.DefaultMetaBroadcaster"}
+{"pred": "Returns a one dimensional array from an sql query."}
+{"pred": "Removes a converter from the set of converters."}
+{"pred": "Get the x location of the left corner of this circle"}
+{"pred": "Return  LogicalInputSplits for given  HiveReadEntry."}
+{"pred": "Convenient replacement of  #startProfilingCPU(long) with  ProfilingModes#CPU_SAMPLING for the mode."}
+{"pred": "Get the  Languages.Language object corresponding to the given language string."}
+{"pred": "Gets the Refactoring supported by the controller."}
+{"pred": "Parses a serialized ImmutableGraph from an InputStream."}
+{"pred": "Get the current number of bucket hosts and update the redundancy statistics for the region."}
+{"pred": "Retrieves the parsed Test Suites."}
+{"pred": "Checks if this persistent resource's underlying entity is shareable."}
+{"pred": "Return a copy of all selected objects.  It would be nice to have this be a copy-on-write set.  It would be much faster for large selections.  May users just call this, and only check the .size()"}
+{"pred": "Construct the text for the main label of a graphic."}
+{"pred": "Creates a  TwitterTokenStream that aggregates the outputs of a given set of  TwitterTokenStreams."}
+{"pred": "Obtains a IStructuredTextExpert instance for processing structured text with the specified type handler and the specified environment."}
+{"pred": "Get the y location of the top of this circle."}
+{"pred": "Read the announcement generated file."}
+{"pred": "Create  GitlabRepositoryName from URL."}
+{"pred": "Searches for a button with the given regex and returns true if the searched button is found a given number of times"}
+{"pred": "Returns a  org.mule.module.google.calendar.model.CalendarList listing the calendars of the user that owns the OAuth access token."}
+{"pred": "Parses the output of ping and populates a instance of  PingResult"}
+{"pred": "Removes the package version from this repo, if it exists."}
+{"pred": "Compares this object with the specified object for equality based on start and end millis."}
+{"pred": "Returns the stored portlet preferences map."}
+{"pred": "Returns the common base directory between a given file1 and a given file2."}
+{"pred": "Returns the  JtdsConnection object referenced by the  #statement instance variable."}
+{"pred": "Searches an implementation method for a match against the given operation"}
+{"pred": "Marshall JSON metadata into a new W3CWidget instance"}
+{"pred": "Requests a VisualItem of the specified item class corresponding to a given Entity, optionally creating the VisualItem if it doesn't already exist."}
+{"pred": "Performs the actual authentication of the user by connecting to the LDAP server, querying it for user information, and returning an  LdapDirectoryInfo instance containing the results."}
+{"pred": "Return a ASN1Object containing the encoded certificate."}
+{"pred": "Create a new request queue, using NoHttp default request executor  IRestProtocol and default response parser  RestParser."}
+{"pred": "Applies  visitor to each item"}
+{"pred": "Returns the  VideoCallProvider for the connection."}
+{"pred": "Returns the message id header value of a SIP request."}
+{"pred": "Return a  FxFilteredEnvironment for the calling user."}
+{"pred": "Handle of terminal to show after closing indicated terminal index"}
+{"pred": "Gets a Collection of distances for a specific run and year."}
+{"pred": "Checks whether this ChatSection's raw argument can be parsed as a boolean"}
